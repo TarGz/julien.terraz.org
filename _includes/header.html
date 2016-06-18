@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
+    <h1><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <p class="uk-text-muted">{{ site.description }}</p>
+    <nav>
+      <ul class="uk-subnav uk-subnav-pill">
+        <li {% if page.url == '/' %}class='uk-active'{% endif %}><a href='{{ site.github.url }}/'>WORK</a></li>
+        <li {% if page.url == '/project/' %}class='uk-active'{% endif %}><a href='{{ site.github.url }}/project/' > PROJECT </a></li>
+        <li><a href='http://julienterraz.com/tagged/logs' >LOGS</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
