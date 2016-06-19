@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "T.O. by Lipton"
+date: 	Sept 24, 2015 at 5:31pm
+categories: work
+preview: "images/work/to/01-800.jpg"
+---
+<iframe src="https://player.vimeo.com/video/148608210?title=0&byline=0&portrait=0" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+
+
+![T.O. By Lipton](/images/work/TO/02.jpg)
+![T.O. By Lipton](/images/work/TO/03.jpg)
+![T.O. By Lipton](/images/work/TO/04.jpg)
+![T.O. By Lipton](/images/work/TO/05.jpg)
+![T.O. By Lipton](/images/work/TO/06.jpg)
+
+### Credits
+
+- Creative Technologist: Stephane Allary & Julien Terraz
+- Artist coder : James Alliban
+- Project and Account management: Daniel Gaujac & Gilles Gandara
+- Video shoot: David Sultan & Javier Sacristan Rodriguez
+- Creative direction : Laurent Nuyen & Geoffrey Justeau

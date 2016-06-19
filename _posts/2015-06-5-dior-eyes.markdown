@@ -5,6 +5,9 @@ date: 	June 5, 2015 at 6:02pm
 categories: work
 preview: "images/work/dior-eyes/01-800.jpg"
 ---
+<iframe src="https://player.vimeo.com/video/136715143?title=0&byline=0&portrait=0" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+
+
 ![Dior Eyes](/images/work/dior-eyes/01.jpg)
 ![Dior Eyes](/images/work/dior-eyes/02.jpg)
 ![Dior Eyes](/images/work/dior-eyes/03.jpg)
@@ -32,6 +35,8 @@ And then your baby is ready to roll
 ![Dior Eyes](/images/work/dior-eyes/14.jpg)
 ![Dior Eyes](/images/work/dior-eyes/15.jpg)
 ![Dior Eyes](/images/work/dior-eyes/16.jpg)
+
+
 
 
 ## Credits
