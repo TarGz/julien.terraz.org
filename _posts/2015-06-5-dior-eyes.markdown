@@ -48,12 +48,12 @@ After the R&D process you endup with a working prototype that feet all the requi
 ![Dior Eyes](/images/work/dior-eyes/09.jpg)
 ![Dior Eyes](/images/work/dior-eyes/10.jpg)
 
-> Pould mounting one headset
+> Poulp mounting one headset
 
 
 ![Dior Eyes](/images/work/dior-eyes/11.jpg)
 
-> After nigth and and day of final rush you are ready to ship
+> After nigth and and day of final rush we are ready to ship
 
 ### Le Majestic Cannes the Dior suite
 
