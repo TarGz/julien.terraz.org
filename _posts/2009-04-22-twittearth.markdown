@@ -10,7 +10,7 @@ preview: "images/project/twittearth/01-800.jpg"
 <iframe width="1200" height="900" src="https://www.youtube.com/embed/30cmNXuUp7Q?rel=0" frameborder="0" allowfullscreen class="uk-responsive-width"></iframe>
 
 TwittEarth, like realtime dataviz of Tweet from all around the world.
-This was an experiment of using the Twitter API at the time Tweet weren't geolocalised.
+This was an experiment of using the Twitter API at the time Tweet weren't geolocalised. I had used the Yahoo geocod API to convert city name to longitude and latitude.
 I had some cool article On TechCrunch ["TwittEarth, is eye-candy at its finest"](https://techcrunch.com/2008/04/20/twittearth-makes-twitter-a-global-experience/)
 
 ![Twittearth](/images/project/twittearth/01.jpg)
