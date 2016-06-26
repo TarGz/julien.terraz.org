@@ -54,7 +54,7 @@ Synchronizing all the elements was challenging in a context were we couldn't rel
 <div class="uk-grid">
 <div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1"><iframe src="https://vine.co/v/iaOQJpEYD9X/embed/simple" width="480" height="480" frameborder="0"></iframe></div>
 <div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1"><iframe src="https://vine.co/v/i7UehFYedvh/embed/simple" width="480" height="480" frameborder="0"></iframe></div>
-<script src="https://platform.vine.co/static/scripts/embed.js"></script>
+
 </div>
 
 
