@@ -25,7 +25,7 @@ We have created an interactive museum were you can interact with art piece throu
 
 
 
-### Credits
+### CREDITS
 
 - Creative Director: Patrick Dacquin & Anthony lepinay
 - Creative Technologist: Julien Terraz

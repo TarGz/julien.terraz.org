@@ -12,7 +12,7 @@ preview: "images/work/inspiration-corridor/01-800.jpg"
 
 With Klepierre, DigitasLBi Labs created “Inspiration Corridor” to illustrate the ongoing revolution and future opportunities for unique shopping experiences in malls.
 
-## Idea
+## IDEA
 
 > What can I buy to match my last purchased article?
 
@@ -23,7 +23,7 @@ The real challenge for us was to get data about the consumer and provide him a r
 - Custom made Kinect Skeleton scanning
 - Geolocalised product database by [Socloz](http://www.socloz.com/en/)
 
-## Behind the scenes
+## BEHIND THE SCENES
 
 An infra-red Kinect camera analyses individual visitors as they enter the “Inspiration Corridor”, thanks to body scanning technology. A device equipped with QUIVIDI video analysis and PigData product recommendation scans the users and their outfits within 2 seconds and registers the collected data: gender, age group and style of clothes.
 Kinect provides us with user skeleton and allow us to silhouetting the photo taken by the webcam. Also, we analyse all the color of the user to get the predominant color of his clothes. Meanwhile, webcam sends all its frames to Quividi server which makes the user analysis. After this step, we receive all the data we need.
@@ -36,7 +36,7 @@ Then, just like window-shopping, the user has to walk through the corridor and s
 Upon leaving the corridor, iBeacons technology Bluetooth® 4.0 allows customers to synchronise their product selection on their Klépierre mobile application. They can then geo-localise all the pre-selected products within the shopping centre.
 
 
-### Credits
+### CREDITS
 
 Special thanks to [Klépierre](http://www.klepierre.com/) and to all our partners [Carlipa](http://www.carlipa.com/), [PigData](http://www.pigdata.net/), [Quividi](http://www.quividi.com/) and [Socloz](http://www.socloz.com/).
 

@@ -9,13 +9,9 @@ preview: "images/work/laPoste-ces-2016/01-800.jpg"
 
 <iframe src="https://player.vimeo.com/video/160351666?title=0&byline=0&portrait=0" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
-## Context
+## THE BRIEF 
 
-La poste wanted to express their new "connected services" positionning on their Stand at the CES. They have developped a bunch of connected services with their partners and they wanted something to demonstrate the usages of these connected services. 
-
-## The brief 
-
-We have been asked to find a way to demonstrate La Poste connected services on a 41 square meter part of their CES stand. They had three main constraint : 
+La poste wanted to express their new "connected services" positionning on their Stand at the CES. They have developped a bunch of connected services with their partners and they wanted something to demonstrate the usages of these connected services. We have been asked to find a way to demonstrate La Poste connected services on a 41 square meter part of their CES stand. They had three main constraint : 
 
 1. Thoses services should been demonstrated in a maner that show that they are real and concrete. 
 2. They wanted to have real connected objects that people could try.
@@ -23,23 +19,23 @@ We have been asked to find a way to demonstrate La Poste connected services on a
 
 
 
-## The idea
+## THE IDEA
 
 We started the creative process by wondering what should be the good narative. Quickly the first conviction came that we should merge the immersive part and the connected object demo. The other main idea was to create something that make feel people they are watching a real scene. Thoses two conviction drive us to use some high resolution vidéo and screens that will be connected with real objects.
 ![La Poste CES 2016](/images/work/laPoste-ces-2016/01.jpg)
 
-## The solution
+## THE SOLUTION
 
 "Very real" will be an instalation that blur the line between virtual and reality to immerge the spectator in a connected object world were they could discover services that will change their life. Objects will have real interaction with de video for exemple with the letter box, when you put a object in the postman (in the video) come to pick it up, it's a kind of magic that make you feel that the video is not a video but a real scene behind a window. That why we choosed to use 4K screens and videos. 
 
 
 
 
-## From the idea to the deployment
+## FROM THE IDEA TO THE DEPLOYMENT
 
 La Poste just loved it so we had the idea we had to make it appens, and the bad news was that the delay were realy tigth. We had to find the good technical solution, to brief a video production compagny, to synchroinize with the stand construction compagny, to work with all the la Poste parteners.
 
-## Shooting
+## SHOOTING
 The shooting was a tricky part, the 6 X 6K camera rig was huge and the all set was really amazing but compared the post production the shooting was easy.
 The post production was so complexe that Figthing Fish and DVmobile had to find never made before solution for handeling it. The volume of data was huge and everything needed to be rotoscoped to correct lens abberations.
 
@@ -48,7 +44,7 @@ The post production was so complexe that Figthing Fish and DVmobile had to find 
 
 
 
-## Development
+## DEVELOPMENT
 Synchronizing all the elements was challenging in a context were we couldn't rely on wifi as the signal are usualy jammed in events like CES. We had to find a realiable solution and finaly used audio cable to synchronise iPad and videos. A taillor made sound synth have been developped to echanche ID between devices. Some object like the postal box needed a custom made connector to detected the opening and the closing of the box, we have developped a dedicated Arduino shield to do so. We had to develope the prototype in our Paris office using "small" 4K screen to ensure that everything was working perfectly.
 
 <div class="uk-grid">
@@ -59,7 +55,7 @@ Synchronizing all the elements was challenging in a context were we couldn't rel
 
 
 
-## Run
+## RUN
 Then time to ship all the materials to Vegas. After puting everything in fligth cases we were crossing our finger till we arrivedc to Vegas. Fortunatly the flygth case were arrived in good condition to Vegas, all the 80'' 4K screen were hanged on the stand, time for us to plug everything together. 
 
 
@@ -74,11 +70,11 @@ Then time to ship all the materials to Vegas. After puting everything in fligth 
 ![La Poste CES 2016](/images/work/laPoste-ces-2016/09.jpg)
 
 
-### Making of 
+### MAKING OF 
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/SxOH9v3B23s?rel=0" frameborder="0" allowfullscreen class="uk-responsive-width"></iframe>
 
-### Credits
+### CREDITS
 
 - Creative Technologist: Julien Terraz & Stéphane Allary
 - Account team: Rémy Garnier & Cécile Sallaind

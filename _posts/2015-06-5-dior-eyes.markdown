@@ -7,7 +7,7 @@ preview: "images/work/dior-eyes/01-800.jpg"
 ---
 <iframe src="https://player.vimeo.com/video/136715143?title=0&byline=0&portrait=0" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
-### The brief was pretty simple: 
+### THE BRIEF 
 
 > Could you both generate traffic on Dior corner shop and have some good PR around innovations ? 
 
@@ -15,7 +15,7 @@ The best option for us was VR and a custom card board sounded like the best opti
 
 ![Dior Eyes](/images/work/dior-eyes/01.jpg)
 
-### How we did it
+### HOW WE DID IT
 
 This project was perfect for a Labs process how we do it usualy, we had 4 main problematics:
 
@@ -26,22 +26,22 @@ This project was perfect for a Labs process how we do it usualy, we had 4 main p
 
  Each one could have an impact on each other. This lead us to solve them in paralel in a iterative way.
 
-### mecanics R&D 
+### MECANICS R&D 
 
 ![Dior Eyes](/images/work/dior-eyes/02.jpg)
 ![Dior Eyes](/images/work/dior-eyes/03.jpg)
 
-### electronics R&D 
+### ELECTRONICS R&D 
 ![Dior Eyes](/images/work/dior-eyes/04.jpg)
 ![Dior Eyes](/images/work/dior-eyes/05.jpg)
 ![Dior Eyes](/images/work/dior-eyes/06.jpg)
 
-### lens R&D 
+### LENS R&D 
 
 ![Dior Eyes](/images/work/dior-eyes/07.jpg)
 ![Dior Eyes](/images/work/dior-eyes/08.jpg)
 
-### Rush
+### RUSH
 
 After the R&D process you endup with a working prototype that feet all the requirements, but as usual your are a bit late on the planning, that were the rush start... and you know you are in trouble when your desk looks like this, it's a bit like having code not well organized.
 
@@ -55,7 +55,7 @@ After the R&D process you endup with a working prototype that feet all the requi
 
 > After nigth and and day of final rush we are ready to ship
 
-### Le Majestic Cannes the Dior suite
+### LE MAJESTIC CANNES THE DIOR SUITE
 
 The first deployment of the Dior Eyes headset take place in Cannes during the film festival at Le Majestic Hotel in the Dior suite. Immediately people where amased and passionate by the experience and they were queing to try it... After this success the 12 headset were ready to roll and were deployed all around the world.
 
@@ -67,9 +67,7 @@ The first deployment of the Dior Eyes headset take place in Cannes during the fi
 ![Dior Eyes](/images/work/dior-eyes/16.jpg)
 
 
-
-
-### Credits
+### CREDITS
 
 - Creative Technologist: Julien Terraz, Stephane Allary, Nicolas Petremann
 - Project management: Alexandre Suriano, Arnauld Wechsler

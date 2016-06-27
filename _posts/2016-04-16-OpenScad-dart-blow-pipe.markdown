@@ -6,7 +6,7 @@ categories: project
 preview: "images/project/blowpipe/01-800.jpg"
 ---
 
-#Dart blow pipe
+## DART BLOW PIPE
 
 Foam darts are fun, specially in office opens pace, but dart gun are not very powerful and not accurate at all. We have used them a lot in the office and then Franck Youdine made a paper blowpipe to send darts. It was so accurate and so powerful that I decided to build one using my 3D printer. This was an oportunity to learn [OpenScad](http://www.openscad.org/).
 The longer the pipe the more it will be accurate, it was a bit challenging to print a long pipe has pipe need to be printed vertically. That were I came with the idea of module that could be connected and printed separately.

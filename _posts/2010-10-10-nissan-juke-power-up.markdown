@@ -20,6 +20,6 @@ We had the first ever mobile FWA for a Flash website, and yes back in the day th
 ![Nissan Juke Power-up](/images/work/nissan-juke-power-up/03.jpg)
 
 
-### Rewards
+### REWARDS
 
 - First [FWA mobile](https://thefwa.com/cases/juke-power-up)

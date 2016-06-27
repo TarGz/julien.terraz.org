@@ -8,18 +8,18 @@ preview: "images/work/wonderbra-decoder/01-800.jpg"
 
 <iframe src="https://player.vimeo.com/video/171294825?title=0&byline=0&portrait=0" width="1200" height="900" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
-## Wonderbra Decoder
+## WONDERBRA DECODER
 
 Wonderbra, the lingerie brand with an emblematic product: the push up. But who knows that Wonderbra is not a one-product brand but offers a varied product range?
 
 
-### Idea
+### IDEA
 
 For its new campaign, Wonderbra sets digital at the core of its dispositive and renew with the brand’s fun thanks to a key feminine accessory: the smartphone. Wonderbra Decoder, the very first lingerie campaign that presents the model… with clothes on! An integrated campaign that lets you truly “decode” Adriana’s silhouette in print, outdoor advertising, and on YouTube.
 
 ![Wonderbra Decoder](/images/work/wonderbra-decoder/02.jpg)
 
-### Technologie
+### TECHNOLOGIE
 
 Thanks to technology, we were able to adapt the creative idea to every channel. 2 technologies were specifically developed: The prints were skinned with special captors to allow decoding. Users who have downloaded the app, hold their smartphone over the code down the side of the print, creating “x-ray vision”, and the model’s clothes will disappear leaving her in the underwear. The visual tag technology chosen goes further than any other augmented reality techno.
 
@@ -33,7 +33,7 @@ The app also synchronizes with a YouTube video in HD thanks to a ultrasonic soun
 
 ![Wonderbra Decoder](/images/work/wonderbra-decoder/11.jpg)
 
-### Reward
+### REWARD
 
 - Fwa&nbsp;[mobile of the day](http://www.thefwa.com/mobile/wonderbra-decoder)
 - CRESTA Awards Wonderbra Wonderbra Decoder - Uncover my Secret
@@ -43,7 +43,7 @@ The app also synchronizes with a YouTube video in HD thanks to a ultrasonic soun
 - ADC Awards Bronze Cristal - Mobile Marketing category (Digital & Mobile Prize)
 
 
-### Talking about
+### TALKING ABOUT
 
 - Featured by&nbsp;[Psfk.com](http://www.adverblog.com/2012/10/02/wonderbra-decoder/)
 - Featured by&nbsp;[nydailynews.com](http://articles.nydailynews.com/2012-10-04/news/34264395_1_free-app-perfect-bra-lingerie)

@@ -35,7 +35,7 @@ and sent them 1,000 mysterious cards :
 
 > and ended up with a 24/7 live video/chat from a Nissan Cube in Tokyo.
 
-### Credits
+### CREDITS
 
 - Executive creative Director: Olivier Delas
 - Creative Director: Florian Cordier
@@ -46,7 +46,7 @@ and sent them 1,000 mysterious cards :
 
 
 
-### Rewards
+### REWARDS
 
 - FWA [Site of The Day 2010](https://thefwa.com/cases/cubelist)
 - CANNES LIONS 2010 Shortlist: Interface & navigation

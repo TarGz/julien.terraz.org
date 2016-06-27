@@ -14,7 +14,7 @@ preview: "images/work/to/01-800.jpg"
 ![T.O. By Lipton](/images/work/to/05.jpg)
 ![T.O. By Lipton](/images/work/to/06.jpg)
 
-### Credits
+### CREDITS
 
 - Creative Technologist: Stephane Allary & Julien Terraz
 - Artist coder : James Alliban

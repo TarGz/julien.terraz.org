@@ -2,16 +2,16 @@
 layout: default
 ---
 
-<article>
-  <h2 class="uk-text-bold">// {{ page.title }} //</h2>
 
+
+
+<article>
+
+  <h2 class="uk-text-bold">// {{ page.title }} //</h2>
+  <p class="uk-article-meta"> {{ page.date | date: "%B %e, %Y" }}</p>
+  <hr class="uk-article-divider">
   <div class="uk-text-large">
     {{ content }}
   </div>
-
-  <div>
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  {% include disqus.html %}
+  <!-- {% include disqus.html %} -->
 </article>

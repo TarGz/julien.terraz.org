@@ -15,7 +15,7 @@ I had some cool article On TechCrunch ["TwittEarth, is eye-candy at its finest"]
 
 ![Twittearth](/images/project/twittearth/01.jpg)
 
-## Articles
+## ARTICLES
 
 - [Mashable, it's eye candy.](http://mashable.com/2008/04/20/twittearth-visualization/#CBF9U5vP4iqL)
 - [Techcrunch, is eye-candy at its finest](https://techcrunch.com/2008/04/20/twittearth-makes-twitter-a-global-experience/)
