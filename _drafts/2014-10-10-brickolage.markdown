@@ -52,6 +52,26 @@ do
 ![Brickolage](/images/project/brickolage/14.jpg)
 ![Brickolage](/images/project/brickolage/15.jpg)
 
+<div class="uk-grid">
+<div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
+<iframe src="https://vine.co/v/eiz3rQT6i1A/embed/simple" width="600" height="600" frameborder="0"></iframe>
+</div>
+<div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
+<iframe src="https://vine.co/v/eqE2QVd73P3/embed/simple" width="600" height="600" frameborder="0"></iframe>
+</div>
+</div>
+
+
+<div class="uk-grid">
+<div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
+<iframe src="https://vine.co/v/eqtJvarV1nz/embed/simple" width="600" height="600" frameborder="0"></iframe>
+</div>
+<div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
+<iframe src="https://vine.co/v/eKElLt3q00U/embed/simple" width="600" height="600" frameborder="0"></iframe>
+</div>
+</div>
+
+
 ## 4X8 FONT NAMED BRICKOLAGE
 
 
@@ -72,35 +92,6 @@ do
 ![Brickolage](/images/project/brickolage/12.jpg)
 ![Brickolage](/images/project/brickolage/13.jpg)
 
-
-Then I became clear that I have to handle 
-
-## THE DIFFERENT PARTS OF A LEGO BRICK
-
-- Top knobs
-- roof 
-- bottom knobs
-- walls
-
-
-<div class="uk-grid">
-<div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
-<iframe src="https://vine.co/v/eiz3rQT6i1A/embed/simple" width="600" height="600" frameborder="0"></iframe>
-</div>
-<div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
-<iframe src="https://vine.co/v/eqE2QVd73P3/embed/simple" width="600" height="600" frameborder="0"></iframe>
-</div>
-</div>
-
-
-<div class="uk-grid">
-<div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
-<iframe src="https://vine.co/v/eqtJvarV1nz/embed/simple" width="600" height="600" frameborder="0"></iframe>
-</div>
-<div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
-<iframe src="https://vine.co/v/eKElLt3q00U/embed/simple" width="600" height="600" frameborder="0"></iframe>
-</div>
-</div>
 
 
 
