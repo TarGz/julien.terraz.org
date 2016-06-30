@@ -4,6 +4,7 @@ title:  "La Poste CES 2016"
 date: 	Jan 06, 2016 at 5:31pm
 categories: work
 preview: "images/work/laPoste-ces-2016/01-800.jpg"
+excerpt: "I have create a immersivve instalation for La Poste at the CES 2016"
 ---
 
 

@@ -4,6 +4,7 @@ title:  "Twittearth"
 date: 	Apr 22nd, 2009 12:00:00am
 categories: project
 preview: "images/project/twittearth/01-800.jpg"
+excerpt: "Playing with a little tweetting earth using early stage twitter API"
 ---
 
 

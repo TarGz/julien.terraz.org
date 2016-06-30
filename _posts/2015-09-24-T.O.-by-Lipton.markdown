@@ -4,6 +4,7 @@ title:  "T.O. by Lipton"
 date: 	Sept 24, 2015 at 5:31pm
 categories: work
 preview: "images/work/to/01-800.jpg"
+excerpt: "Interactive generative Art tee-bar"
 ---
 <iframe src="https://player.vimeo.com/video/148608210?title=0&byline=0&portrait=0" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 

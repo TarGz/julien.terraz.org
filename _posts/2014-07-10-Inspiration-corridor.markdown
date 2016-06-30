@@ -4,6 +4,7 @@ title:  "Klepierre Inspiration Corridor"
 date: 	Aug 10th, 2014 6:50:00pm
 categories: work
 preview: "images/work/inspiration-corridor/01-800.jpg"
+excerpt: "We have created a mashup of technologies that help peoples discover clothes that feet their look and needs"
 ---
 
 

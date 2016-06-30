@@ -4,6 +4,7 @@ title:  "Template"
 date: 	Jan 28th, 1972 12:00:00am
 categories: project
 preview: "images/template.jpg"
+excerpt: "A litle intro of the post used by Twitter"
 ---
 
 ![Template image](/images/template1200.jpg)
@@ -21,7 +22,7 @@ Everything started with my office LEgo wall, we started making pixel art using s
          <img src="/images/template1200.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
-        <p>Maecenas venenatis eros ut sem vulputate elementum. Proin vitae blandit neque. Fusce sit amet molestie lectus. Proin cursus dolor et posuere ultricies. Morbi id odio neque. Vestibulum tincidunt orci erat, ac fringilla elit facilisis non.Maecenas venenatis eros ut sem vulputate elementum. Proin vitae blandit neque. Fusce sit amet molestie lectus. Proin cursus dolor et posuere ultricies. Morbi id odio neque. Vestibulum tincidunt orci erat, ac fringilla elit facilisis non.Maecenas venenatis eros ut sem vulputate elementum. Proin vitae blandit neque. Fusce sit amet molestie lectus. Proin cursus dolor et posuere ultricies. Morbi id odio neque. Vestibulum tincidunt orci erat, ac fringilla elit facilisis non.</p>
+        <p>Maecenas venenatis eros ut sem vulputate elementum. Proin vitae blandit neque. Fusce sit amet molestie lectus. Proin cursus dolor et posuere ultricies. Morbi id odio neque. Vestibulum tincidunt orci erat, ac fringilla elit facilisis non.Maecenas venenatis eros ut sem vulputate elementum. Proin vitae blandit neque. Fusce sit amet molestie lectus. Proin cursus dolor et posuere ultricies. Morbi id odio neque. Vestibulum tincidunt orci erat, ac fringilla elit facilisis non.Maecenas venenatis eros ut sem vulputate elementum. Proin vitae blandit neque. Fusce sit amet molestie lectus. Proin cursus dolor et posuere ultricies. Morbi id odio neque. Vestibulum tincidunt orci erat, ac fringilla elit facilisis non.Vestibulum tincidunt orci erat, ac fringilla elit facilisis non.Maecenas venenatis eros ut sem vulputate elementum. Proin vitae blandit neque. Fusce sit amet molestie lectus. Proin cursus dolor et posuere ultricies.</p>
     </div>
 </div>
 
@@ -39,6 +40,18 @@ Everything started with my office LEgo wall, we started making pixel art using s
          <img src="/images/template1200.jpg" class="uk-responsive-width">
     </div>
 </div>
+
+### 2 IMAGES
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/template1200.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/template1200.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
 
 ### VINE GRID
 

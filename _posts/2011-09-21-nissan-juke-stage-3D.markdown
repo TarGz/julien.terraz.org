@@ -4,6 +4,7 @@ title:  "Nissan Juke Stage 3D"
 date: 	Sep 21th, 2011 6:54:00pm
 categories: work
 preview: "images/work/nissan-juke-stage-3D/01-800.jpg"
+excerpt: "The first of it's kind commercial website that use Stage 3D"
 ---
 <iframe src="https://player.vimeo.com/video/46621344?title=0&byline=0&portrait=0" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen  class="uk-responsive-width"></iframe>
 

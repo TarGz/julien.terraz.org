@@ -4,6 +4,7 @@ title:  "Wonderbra Decoder"
 date: 	Aug 20th, 2013 6:44:00pm
 categories: work
 preview: "images/work/wonderbra-decoder/01-800.jpg"
+excerpt: "Discover the secret of beauty of Adiana :-)"
 ---
 
 <iframe src="https://player.vimeo.com/video/171294825?title=0&byline=0&portrait=0" width="1200" height="900" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
