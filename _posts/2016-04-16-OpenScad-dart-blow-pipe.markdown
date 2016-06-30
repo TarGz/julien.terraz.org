@@ -3,6 +3,7 @@ layout: post
 title:  "Openscad dart blow pipe"
 date: 	Apr 16th, 2016 7:46:10pm
 categories: project
+comments: true
 preview: "images/project/blowpipe/01-800.jpg"
 excerpt: "Let's build happy weapons"
 ---

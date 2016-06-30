@@ -3,6 +3,7 @@ layout: post
 title:  "Template"
 date: 	Jan 28th, 1972 12:00:00am
 categories: project
+comments: true
 preview: "images/template.jpg"
 excerpt: "A litle intro of the post used by Twitter"
 ---

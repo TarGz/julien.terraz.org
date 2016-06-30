@@ -3,6 +3,7 @@ layout: post
 title:  "3d print fails are a great"
 date: 	Jul 17th, 2015 9:42:59am
 categories: project
+comments: true
 preview: "images/project/3D-print-fails-are-great/01-800.jpg"
 excerpt: "3D print serendipity"
 ---

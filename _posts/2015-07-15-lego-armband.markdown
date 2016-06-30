@@ -3,6 +3,7 @@ layout: post
 title:  "Lego Armband"
 date: 	Jul 15nd, 2015 12:00:00am
 categories: project
+comments: true
 preview: "images/project/lego-armband/01-800.jpg"
 excerpt: "Lego personalysed armband using 3D printer"
 ---

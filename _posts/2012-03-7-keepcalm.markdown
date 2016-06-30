@@ -3,6 +3,7 @@ layout: post
 title:  "Keep Calm"
 date: 	Mar 7th, 2012 12:00:00am
 categories: project
+comments: true
 preview: "images/project/keepcalm/01-800.jpg"
 excerpt: "I just had some fun playing with the Keep calm and carry on meme"
 ---
