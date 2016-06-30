@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Playing with 3D printable Lego typeface"
-date: 	Jully 1st, 2016 12:00:00am
+date: 	Jul 1st, 2016 12:00:00am
 categories: project
 comments: true
 preview: "images/project/brickolage/brickfont/01.jpg"
