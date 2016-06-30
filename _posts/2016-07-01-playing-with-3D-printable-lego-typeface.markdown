@@ -1,23 +1,20 @@
 ---
 layout: post
 title:  "Playing with 3D printable Lego typeface"
-date: 	Jun 29nd, 2016 12:00:00am
+date: 	Jully 1st, 2016 12:00:00am
 categories: project
+comments: true
 preview: "images/project/brickolage/brickfont/01.jpg"
-excerpt: "Writting with Lego have been something I've been interested... my 3D printer push me to go further"
+excerpt: "Writting with Lego have been something I've been interested for a while, my 3D printer push me to go further"
 ---
-
-
-
 ![Lego wall](/images/project/brickolage/brickfont/02.jpg)
 
-I have been fan of Lego since my childwood so I decided to create a Lego wall in my DigitasLBi Labs office. Then we started making pixel art using small bricks.I set this wall as an open canvas where everybody could create, I started with Mario Bross and then we had Bomber man, bob the sponge, space invaders, etc. And yes I made a Lego Qr-Code :-)... Later people used the wall to display messages or font based logo. Create a text message with Lego is quite complexe and you endup with a deceptive result. That's where the idea of creating some "Lego" brick fontface came.
-
-
+I have been fan of Lego and pixel art since my childwood so I decided to create a Lego wall in my DigitasLBi Labs office. Then we started making pixel art using small bricks. I set this wall as an open canvas where everybody could create, I started with Mario Bross and then Bomberman appear with bob the sponge, space invaders, etc. And yes I also made a Lego Qr-Code :-)... Later people used the wall to display messages or font based logo. Design text message using Lego is quite chanlenging and you often end up with a deceptive result. That's where the idea of creating some "Lego" brick fontface came.
 
 ![Lego wall](/images/project/brickolage/02.jpg)
 
 ### THE FIRST POC
+
 I started designing "Lego" chars by hand using 123Design but that rapidly became a nigthmare because it's complexity + I also wanted to been abble to generate all font char at once. But a least I had a first working POC:
 
 <div class="uk-grid" data-uk-grid-margin="">
@@ -32,19 +29,18 @@ I started designing "Lego" chars by hand using 123Design but that rapidly became
     </div>
 </div>
 
-![Brickolage](/images/project/brickolage/08.jpg)
 
 ### SEEKING FOR THE RIGHT TOOL
 
-After exploring different 3D software and CAD tools I finally discovered an opensource 3D CAD named [OpenScad](http://www.openscad.org/). That was exactly what I was looking for, it's a programing language capable of generating 3D model using simple [3D shape and boolean operation](http://www.openscad.org/cheatsheet/) you can easely create whatever you want. You can also use a lot of differents [library](https://github.com/openscad/openscad/wiki/Libraries) developped by the community. The amazing part of this tools is his ability to generate 3D model dynamicaly, for my needs it finaly looks like this to generate A,B and C chars once my method where developped:
+After exploring different 3D software and CAD tools I finally discovered an opensource 3D CAD software named [OpenScad](http://www.openscad.org/). That was exactly what I was looking for, it's a programing language capable of generating 3D model using simple [3D shape and boolean operation](http://www.openscad.org/cheatsheet/). You can easely create whatever you want. You can also use a lot of differents [library](https://github.com/openscad/openscad/wiki/Libraries) developped by the community. The amazing part of this tools is his ability to generate 3D model dynamicaly. For my needs it finaly looks like this to generate A,B and C chars once my method where developped:
 
 {% highlight javascript%}
-renderBrick("simple",render_quality)  Letter("A");
-renderBrick("simple",render_quality)  Letter("B");
-renderBrick("simple",render_quality)  Letter("C");
+renderBrick() Letter("A");
+renderBrick() Letter("B");
+renderBrick() Letter("C");
 {% endhighlight %}
 
-That's usefull but you still need some manual work to generate the full set of chars of the font. But the amazing [OpenScad](http://www.openscad.org/) has an other feature that can save your life the [CLI arguments](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_OpenSCAD_in_a_command_line_environment). Using Bash script you can call any [OpenScad](http://www.openscad.org/) program with a set of parameters in my case I was abble to pass a list of chars and a font ID to generate all chars from a font.
+That's usefull but you still need some manual work to generate the full set of chars of the font. But the amazing [OpenScad](http://www.openscad.org/) has an other feature that can save your life: [CLI arguments](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_OpenSCAD_in_a_command_line_environment), using Bash script you can call your [OpenScad](http://www.openscad.org/) script with a set of parameters in my case I was abble to pass a list of chars and a font ID to generate all chars from a font.
 
 {% highlight bash%}
 string=${2}
@@ -55,11 +51,13 @@ do
   openscad -o output/${3}-${fontArray[${3}]}/CHAR/${array[i]}.stl -D debug_mode=false -D fontID=${3}  -D 'letter="'${array[i]}'"' bricks_gen.scad
 {% endhighlight %}
 
+> I now have a fully configurable bash script capable of generating a full set of chars
+
 ![Brickolage](/images/project/brickolage/09.jpg)
 
 ### USING EXISTING FONT-FACE
 
-This technic of generating brick from font inspired me to create some motivationnal posters, doors sign for my kids and message for the office.It was really fun but I wasn't really happy with the look of the chars. All the font I have tried the char weren't fiting well with the Lego logic.
+It was really fun but I wasn't really happy with the look of the chars. 
 
 
 > The Long Shot
@@ -161,8 +159,7 @@ Once designed and generated chars have to be printed. I wanted to get pieces  th
 
 ### CREATIONS
 
-I have explored what to do with those bricks, for know I have been creating different "motivational posters" for me or some friends.
-
+This technic of generating brick from font inspired me to create some motivationnal posters, doors sign for my kids and message for the office.
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
@@ -195,6 +192,7 @@ I have explored what to do with those bricks, for know I have been creating diff
 
 ![Brickolage](/images/project/brickolage/vertical01.jpg)
 
+I'm still exploring what to do with this, any ideas or maybe you want a custom font or a door sign ? feel free to ask.
 
 
 
