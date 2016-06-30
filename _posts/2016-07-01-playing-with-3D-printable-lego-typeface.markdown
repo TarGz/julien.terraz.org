@@ -149,10 +149,10 @@ Once designed and generated chars have to be printed. I wanted to get pieces  th
 
 <div class="uk-grid">
     <div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
-        <iframe src="https://vine.co/v/eiz3rQT6i1A/embed/simple" width="550" height="550" frameborder="0"></iframe>
+        <iframe src="https://vine.co/v/eiz3rQT6i1A/embed/simple" width="550" height="550" frameborder="0" class="uk-responsive-width"></iframe>
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
-        <iframe src="https://vine.co/v/eKElLt3q00U/embed/simple" width="550" height="550" frameborder="0"></iframe>
+        <iframe src="https://vine.co/v/eKElLt3q00U/embed/simple" width="550" height="550" frameborder="0" class="uk-responsive-width"></iframe>
     </div>
 </div>
 
