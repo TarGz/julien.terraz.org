@@ -15,7 +15,7 @@ I have been fan of Lego and pixel art since my childwood so I decided to create 
 
 ### THE FIRST POC
 
-I started designing "Lego" chars by hand using 123Design but that rapidly became a nigthmare because it's complexity + I also wanted to been abble to generate all font char at once. But a least I had a first working POC:
+I started designing "Lego" chars by hand using 123Design but that rapidly became a nigthmare because a Lego brick is quite complexe. I also wanted to be abble to generate all font char at once. But a least I had a first working POC:
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
@@ -32,7 +32,7 @@ I started designing "Lego" chars by hand using 123Design but that rapidly became
 
 ### SEEKING FOR THE RIGHT TOOL
 
-After exploring different 3D software and CAD tools I finally discovered an opensource 3D CAD software named [OpenScad](http://www.openscad.org/). That was exactly what I was looking for, it's a programing language capable of generating 3D model using simple [3D shape and boolean operation](http://www.openscad.org/cheatsheet/). You can easely create whatever you want. You can also use a lot of differents [library](https://github.com/openscad/openscad/wiki/Libraries) developped by the community. The amazing part of this tools is his ability to generate 3D model dynamicaly. For my needs it finaly looks like this to generate A,B and C chars once my method where developped:
+After exploring different 3D software and CAD tools I finally discovered an opensource 3D CAD software named [OpenScad](http://www.openscad.org/). That was exactly what I was looking for, it's a programing language capable of generating 3D model using simple [3D shape and boolean operation](http://www.openscad.org/cheatsheet/). You can easely create whatever you want. You can also use a lot of differents [library](https://github.com/openscad/openscad/wiki/Libraries) developped by the community. The amazing part of this tools is his ability to generate 3D model dynamicaly. For my needs I have create a script capable  of generating all the parts of a brick. After that it looks like this to generate A,B and C chars:
 
 {% highlight javascript%}
 renderBrick() Letter("A");
@@ -40,7 +40,7 @@ renderBrick() Letter("B");
 renderBrick() Letter("C");
 {% endhighlight %}
 
-That's usefull but you still need some manual work to generate the full set of chars of the font. But the amazing [OpenScad](http://www.openscad.org/) has an other feature that can save your life: [CLI arguments](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_OpenSCAD_in_a_command_line_environment), using Bash script you can call your [OpenScad](http://www.openscad.org/) script with a set of parameters in my case I was abble to pass a list of chars and a font ID to generate all chars from a font.
+That's usefull but you still need some manual work to generate the full set of chars of the font. An other great part of [OpenScad](http://www.openscad.org/) is his [CLI ability](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_OpenSCAD_in_a_command_line_environment). Using Bash script you can call your [OpenScad](http://www.openscad.org/) script with a set of parameters in my case I was abble to pass a list of chars and a font ID to generate all chars from a font.
 
 {% highlight bash%}
 string=${2}
@@ -56,9 +56,6 @@ do
 ![Brickolage](/images/project/brickolage/09.jpg)
 
 ### USING EXISTING FONT-FACE
-
-It was really fun but I wasn't really happy with the look of the chars. 
-
 
 > The Long Shot
 <div class="uk-grid" data-uk-grid-margin="">
@@ -106,7 +103,7 @@ It was really fun but I wasn't really happy with the look of the chars.
 
 ### CREATING A "LEGO" FONT-FACE
 
-Using any existing font I a great source of creativity, thanks to my OpenScad script I abble to generate any font but I wanted to generate bricks that fit prefectly with Lego sizes and constraints. Chars width & heigth need to be proportional to the lego knobs spacing. That's where I starded design two font face "Brick font" and "Brickolage".
+Using any existing font is a great source of creativity, thanks to my OpenScad script I was abble to generate any font but I wanted to generate bricks that fit prefectly with Lego sizes and constraints. Chars width & heigth need to be proportional to the lego knobs spacing. That's where I starded design two font face "Brick font" and "Brickolage".
 
 > 4X8 FONT BRICKOLAGE
 
