@@ -13,9 +13,11 @@ I have been fan of Lego and pixel art since my childwood so I decided to create 
 
 ![Lego wall](/images/project/brickolage/02.jpg)
 
+{: toto}
 ### THE FIRST POC
 
 I started designing "Lego" chars by hand using 123Design but that rapidly became a nigthmare because a Lego brick is quite complexe. I also wanted to be abble to generate all font char at once. But a least I had a first working POC:
+
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
@@ -57,7 +59,9 @@ do
 
 ### USING EXISTING FONT-FACE
 
-> The Long Shot
+Using any existing font is a great source of creativity, thanks to my OpenScad script I was abble to generate any font but I wanted to generate bricks that fit prefectly with Lego sizes and constraints. Chars width & heigth need to be proportional to the lego knobs spacing. That's where I starded design two font face ["Brick font"](#x5-font-named-brickfont) and ["Brickolage"](#x8-font-brickolage).
+
+#### *The Long Shot*
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
         <img src="/images/project/brickolage/long-shot/01.jpg" class="uk-responsive-width">
@@ -71,7 +75,7 @@ do
 </div>
 
 
-> Phosphate
+#### *Phosphate*
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
         <img src="/images/project/brickolage/Phosphate/01.jpg" class="uk-responsive-width">
@@ -85,7 +89,7 @@ do
 </div>
 
 
-> Birds of paradise
+#### *Birds of paradise*
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
         <img src="/images/project/brickolage/birds-of-paradise/01.jpg" class="uk-responsive-width">
@@ -103,11 +107,25 @@ do
 
 ### CREATING A "LEGO" FONT-FACE
 
-Using any existing font is a great source of creativity, thanks to my OpenScad script I was abble to generate any font but I wanted to generate bricks that fit prefectly with Lego sizes and constraints. Chars width & heigth need to be proportional to the lego knobs spacing. That's where I starded design two font face "Brick font" and "Brickolage".
+#### *3X5 FONT NAMED BRICKFONT*
 
-> 4X8 FONT BRICKOLAGE
 
-<div class="uk-grid" data-uk-grid-margin="">
+<div class="uk-grid" data-uk-grid-margin="" id="BRICKFONT">
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+        <img src="/images/project/brickolage/brickfont/01.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+        <img src="/images/project/brickolage/brickfont/02.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+        <img src="/images/project/brickolage/brickfont/04.jpg" class="uk-responsive-width">
+    </div>
+
+</div>
+
+#### *4X8 FONT BRICKOLAGE*
+
+<div class="uk-grid" data-uk-grid-margin="" id="BRICKOLAGE">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
         <img src="/images/project/brickolage/brickolage/01.jpg" class="uk-responsive-width">
     </div>
@@ -120,22 +138,6 @@ Using any existing font is a great source of creativity, thanks to my OpenScad s
 </div>
 
 
-
-> 3X5 FONT NAMED BRICKFONT
-
-
-<div class="uk-grid" data-uk-grid-margin="">
-    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-        <img src="/images/project/brickolage/brickfont/01.jpg" class="uk-responsive-width">
-    </div>
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/brickfont/02.jpg" class="uk-responsive-width">
-    </div>
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/brickfont/04.jpg" class="uk-responsive-width">
-    </div>
-
-</div>
 
 
 ### 3D PRINTING CHALENGES
