@@ -61,7 +61,7 @@ do
 
 Using any existing font is a great source of creativity, thanks to my OpenScad script I was abble to generate any font but I wanted to generate bricks that fit prefectly with Lego sizes and constraints. Chars width & heigth need to be proportional to the lego knobs spacing. That's where I starded design two font face ["Brick font"](#x5-font-named-brickfont) and ["Brickolage"](#x8-font-brickolage).
 
-#### *The Long Shot*
+#### *Long Shot*
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
         <img src="/images/project/brickolage/long-shot/01.jpg" class="uk-responsive-width">
@@ -144,7 +144,7 @@ Using any existing font is a great source of creativity, thanks to my OpenScad s
 
 ![Brickolage](/images/project/brickolage/17.jpg)
 
-Once designed and generated chars have to be printed. I wanted to get pieces  this pieces seamms easy to printed at the first tougth but I faced a lot of issues with bridging and overall quality. After a lot of different seettings and software I finaly been abble to print acceptable quality using [Simplify 3D](https://www.simplify3d.com/).
+Once designed and generated chars have to be printed. This pieces seamms easy to printed at the first tougth but I faced a lot of issues with bridging and overall quality. After a lot of different seettings and software I finaly been abble to print acceptable quality using [Simplify 3D](https://www.simplify3d.com/).
 
 <div class="uk-grid">
     <div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
