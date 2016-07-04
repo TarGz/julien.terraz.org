@@ -22,3 +22,8 @@
     <meta name="twitter:image" content="{{ site.url }}/{{ page.preview }}" />
     <meta name="twitter:url"    content="{{ site.url }}{{ page.url }}" />
     {% endif %}
+
+    {% if page.url == '/work/' %}
+    <meta http-equiv="refresh" content="0; url=/">
+    <link rel="canonical" href="/" />
+    {% endif %}

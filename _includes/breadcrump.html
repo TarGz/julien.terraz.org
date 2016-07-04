@@ -1,0 +1,24 @@
+<ul class="uk-breadcrumb">
+<li><a href='{{ site.github.url }}/'><i class="uk-icon-small uk-icon-home"></i></a></li>
+
+{% assign crumbs = page.url | remove:'/index.html' | split: '/'%}
+{% for crumb in crumbs offset: 1 %}
+	 {% if forloop.last %}
+	    <!-- <li>{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</li> -->
+	  {% else %}
+	    <li class=""><a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | upcase }}</a></li>
+	  {% endif %}
+	{% endfor %}
+</ul>
+
+
+<!--   <ul class="uk-breadcrumb">
+    <li><a href='{{ site.github.url }}/'><i class="uk-icon-small uk-icon-home"></i></a></li>
+    <li><a href='aaa'>{{ page.categories }} - {% if page.categories == 'work' %}wwwww{% endif %}</a></li>
+   	<li>PATH:{{page.path}}</li>
+   	<li>PAGE CAT:{{page.categories}}</li>
+
+    {% if page.categories == 'work' %}<li>/</li>{% endif %}
+    {% if page.categories == 'project' %}<li>project</li>{% endif %}
+  </ul>
+ -->
