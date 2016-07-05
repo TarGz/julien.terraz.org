@@ -9,11 +9,16 @@ excerpt: "Writting with Lego have been something I've been interested for a whil
 ---
 ![Lego wall](/images/project/brickolage/brickfont/02.jpg)
 
+
+
+
+
+
 I have been fan of Lego and pixel art since my childwood so I decided to create a Lego wall in my DigitasLBi Labs office. Then we started making pixel art using small bricks. I set this wall as an open canvas where everybody could create, I started with Mario Bross and then Bomberman appear with bob the sponge, space invaders, etc. And yes I also made a Lego Qr-Code :-)... Later people used the wall to display messages or font based logo. Design text message using Lego is quite chanlenging and you often end up with a deceptive result. That's where the idea of creating some "Lego" brick fontface came.
 
 ![Lego wall](/images/project/brickolage/02.jpg)
 
-{: toto}
+
 ### THE FIRST POC
 
 I started designing "Lego" chars by hand using 123Design but that rapidly became a nigthmare because a Lego brick is quite complexe. I also wanted to be abble to generate all font char at once. But a least I had a first working POC:
