@@ -210,7 +210,7 @@ excerpt: "I made a motivational Lego poster that remind me to keep playing Lego"
         </tbody>
         </table>
         <p>
-        <a href="https://github.com/TarGz/stay-young-and-play-lego" class="uk-button uk-button-large uk-button-danger uk-width-1-1"><i class="uk-icon uk-icon-github uk-icon-medium">&nbsp;</i>DOWNLOAD FILES</a>
+        <a href="https://github.com/TarGz/stay-young-and-play-lego" class="uk-button uk-button-large uk-button-primary uk-width-1-1"><i class="uk-icon uk-icon-github uk-icon-medium">&nbsp;</i>DOWNLOAD FILES</a>
         </p>
     </div>
 
