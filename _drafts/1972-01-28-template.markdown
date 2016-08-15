@@ -11,6 +11,8 @@ excerpt: "A litle intro of the post used by Twitter"
 ![Template image](/images/template1200.jpg)
 
 
+
+
 ### TEXT BLOCK
 Everything started with my office LEgo wall, we started making pixel art using small bricks. I set this wall as an open canva where everybody could create, I started with Mario Bross and then we had Bomber man, bob the sponge, space invaders, etc. Later people used the wall to display messages or font based logo. Create un message with Lego is quite complexe and you endup with a deceptive result. That's where the idea of creating some "Lego" brick font came.
 
@@ -97,6 +99,30 @@ function loremIpsum(elem) {
 {% endhighlight %}
 
 
+### ROLES
+
+
+<dl class="uk-description-list-horizontal">
+    <dt>Creative Direction</dt>
+    <dd>Concept, stand design, shooting direction</dd>
+    <dt>Creative Tech</dt>
+    <dd>Tech selection, C++ OpenFramework programing, Arduino, json</dd>
+</dl>
+
+### CREDITS
+
+<dl class="uk-description-list-horizontal">
+    <dt>Creative Tech</dt>
+    <dd>Stéphane Allary</dd>
+    <dt>Art Direction</dt>
+    <dd>Stéphane Allary</dd>
+    <dt>Artist coder</dt>
+    <dd>James Alliban</dd>
+    <dt>Account</dt>
+    <dd>Daniel Gaujac & Gilles Gandara</dd>
+    <dt>Video</dt>
+    <dd>David Sultan & Javier Sacristan Rodriguez</dd>
+</dl>
 
 
 
