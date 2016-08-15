@@ -1,9 +1,4 @@
-{% assign crumbs = page.url | remove:'/index.html' | split: '/'%}
-{% for crumb in crumbs offset: 1 %}
-	{% if forloop.first %}
-		{% assign cat = crumb %}
-	{% endif %}
-{% endfor %}
+
 
 
 <nav>

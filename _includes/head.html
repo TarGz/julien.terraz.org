@@ -1,3 +1,10 @@
+{% assign crumbs = page.url | remove:'/index.html' | split: '/'%}
+{% for crumb in crumbs offset: 1 %}
+  {% if forloop.first %}
+    {% assign cat = crumb %}
+  {% endif %}
+{% endfor %}
+
 <head>
   <title>{{ site.title }} {{ page.title }}</title>
   <link rel="stylesheet" type="text/css" href="/css/uikit.targz.min.css">
@@ -6,16 +13,24 @@
   <script src="/js/jquery.js"></script>
   <script src="/js/uikit.min.js"></script>
 
-    <script type="application/ld+json">
-
-    {
-      "@context": "http://targz.fr{{ page.url }}",
-      "@type": "Person",
-      "image": "http://targz.fr/targz.jpg",
-      "name": "Julien TERRAZ",
-      "url": "http://targz.fr"
-    }
-    </script>
+  <script type="application/ld+json">
+  [
+  {
+    "@context": "http://targz.fr{{ page.url }}",
+    "@type": "Person",
+    "image": "http://targz.fr/targz.jpg",
+    "name": "Julien TERRAZ",
+    "url": "http://targz.fr"
+  },
+  {% if (cat == 'project' or cat == 'work') %}{% if page.title %}{
+    "@context": "http://targz.fr{{ page.url }}",
+    "@type" : "Article",
+    "name" : "{{ page.title }}",
+    "url" : "http://targz.fr/work/La-Poste-CES-2016/"
+  }{% endif %}{% endif %}
+  ]
+  </script>
+  
 
   <style>
     h1 a { color:#333; text-decoration: none; padding: 1px 2px; background: #f9fc7e; }
