@@ -21,4 +21,4 @@ excerpt: "Interactive generative Art tee-bar"
 - Artist coder : James Alliban
 - Project and Account management: Daniel Gaujac & Gilles Gandara
 - Video shoot: David Sultan & Javier Sacristan Rodriguez
-- Creative direction : Laurent Nuyen & Geoffrey Justeau
+- Creative direction : Julien Terraz & Geoffrey Justeau

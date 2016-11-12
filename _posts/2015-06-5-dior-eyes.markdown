@@ -73,6 +73,7 @@ The first deployment of the Dior Eyes headset take place in Cannes during the fi
 - Creative Technologist: Julien Terraz, Stephane Allary, Nicolas Petremann
 - Project management: Alexandre Suriano, Arnauld Wechsler
 - Motion: Louis Blaise, Olivier Dubocage, David Sultan et Javier Sacristan Rodriguez
-- Crea: Laurent Nuyen, Jey Ziegelmeyer, Joane Antien, Nicolas Saint Paul
+- Creative direction : Julien Terraz, Jey Ziegelmeyer,
+- Crea: Joane Antien, Nicolas Saint Paul
 - Software : Peder Sandqvist, Martin Krafft from DigitasLBi Sweden
 - Couture: Rouge Satin
