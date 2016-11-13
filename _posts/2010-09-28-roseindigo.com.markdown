@@ -4,18 +4,17 @@ title:  "roseindigo.com"
 date: 	Sep 28th, 2010 12:00:00am
 categories: project
 comments: true
-preview: "images/project/roseindigo/01-800-draft.jpg"
+preview: "images/project/roseindigo/01-800.jpg"
 excerpt: "A used clothes e-commerce website built with my wife"
 ---
 
 ![Template image](/images/project/roseindigo/02b.jpg)
 
-
 ## CONCEPT
 
-My wife wanted to get his own business and we were looking for some idea, for my side I wanted to create an e-commerce website. As we had 3 kids we had a lot of clothes so some day we where making room in the basement and we tought that difficult to get ~~ride~~ of clothes in good condition, you can't just put them in the trash, because you know kid clothes are really expensive and they may be valuable to someone. So we tough that maybe somewhere parents would like to buy affordable clothes in good condition and maybe some other wanted to make room in their basement and make money of it.
+My wife wanted to get his own business and we were looking for some idea, from my side I wanted since a long time to try to create an e-commerce website. We have been searching for an idea for while before figuring out. As we had 3 kids we had a lot of clothes, so some day we where making room in the basement and we tought that difficult to get rid of clothes in good condition, you can't just put them in the trash, because you know kid clothes are really expensive and they may be valuable to someone. So we tough that maybe somewhere parents would like to buy affordable clothes in good condition and maybe some other wanted to make room in their basement and make money of it.
 
-Some stuffs where allready existing in France (ebay, le bon coin) and people where using those website to sell and buy used kids clothes. We tried a bunch of other solution but at the end the experience was pretty bad, at this point we knew that something interesting can be done.
+Back in 2010 some solutions where allready existing in France (ebay, le bon coin) and people where using those website to sell and buy used kids clothes. We tried them all but at the end the experience was pretty bad, at this point we knew that something interesting can be done.
 
 Our main partis pris were : 
 
@@ -23,7 +22,7 @@ Our main partis pris were :
 - *Cheap to buy*
 - *Valuable to sell*
 
-~~To make this possible we choosed to buy clothes before selling them, the other option were to make a market place but it feel to complexe to us.~~
+We choosed to buy clothes before selling them, the other option were to make a market place but it feel to complexe to us.
 
 ## DEVELOPEMENT
 
@@ -47,8 +46,6 @@ To make this business interesting we needed to handle a big volume of clothes be
 ![Template image](/images/project/roseindigo/04.jpg)
 
 
-
-
 ## SHOOTING & AUTOMATION
 
 For both contributing the pictures we needed some automation. 
@@ -59,7 +56,31 @@ Every picture drop in folder where they are automaticaly resized, oriented, comp
 
 ![Template image](/images/project/roseindigo/03.jpg)
 
-## SELLS STRATEGIE
+<!-- ## ROLE
+
+### *Technical solution*
+
+I have explore all existing e-commerce solution available in 2010 and after experimenting differents option I finaly choose to use PrestaShop, mainly because it was free and modular.
+
+### *UX*
+
+Rework all the default prestashop templates to fit our needs, in 2014 I have rework all our template to make them responsive. I have re-create the chart, the checkout.
+
+### *Front office*
+
+I have create a UiKit a responsive theme for RoseIndigo using nodes, Less, Jade and Gulp.
+
+### *Back office*
+
+back office module developpement for automation, product import and promotions.
+
+### *Photo studio*
+
+Setup a photo studio capable of handeling 1000 picture per week. With backligth, background change and ligthing.
+
+
+
+ -->
 
 
 
