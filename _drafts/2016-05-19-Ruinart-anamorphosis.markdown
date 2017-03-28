@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ruinart anamorphose"
+title:  "Ruinart anamorphosis"
 date: 	Apr 28th, 2016 12:00:00am
 categories: work
 comments: true
