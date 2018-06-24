@@ -17,7 +17,8 @@ excerpt: "Interactive generative Art tee-bar"
 
 ### CREDITS
 
-- Creative Technologist: Stephane Allary & Julien Terraz
+- Creative Director : Julien Terraz
+- Creative Technologist: Stephane Allary
 - Artist coder : James Alliban
 - Project and Account management: Daniel Gaujac & Gilles Gandara
 - Video shoot: David Sultan & Javier Sacristan Rodriguez

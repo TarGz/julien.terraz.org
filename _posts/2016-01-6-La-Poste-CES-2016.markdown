@@ -77,7 +77,8 @@ Then time to ship all the materials to Vegas. After puting everything in fligth 
 
 ### CREDITS
 
-- Creative technologist: Julien Terraz & Stéphane Allary
+- Labs director / Creative Lead : Julien Terraz
+- Creative technologist: Stéphane Allary
 - Account team: Rémy Garnier & Cécile Sallaind
 - Creative direction : Julien Terraz, Luc Deveze
 - Software development  : DigitasLBi Labs Paris & Lost Mechanics
