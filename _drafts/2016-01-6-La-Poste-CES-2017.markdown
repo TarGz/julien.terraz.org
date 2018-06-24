@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "La Poste CES 2017"
+date: 	Jan 10th, 2017 12:00:00am
+categories: work
+comments: true
+preview: "images/work/laPoste-ces-2017/01-800.jpg"
+excerpt: "An Immersive experience that give the spectator The ubiquity gift"
+---
+
+
+<iframe src="https://player.vimeo.com/video/202170516" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+
+
+
+For the 3rd time, La Poste revealed their innovative approach at the 2017 Las Vegas CES. This year, they asked DigitasLBi Labs to design an immersive experience that presents their new connected services.
+
+
+
+
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/laPoste-ces-2017/mytho.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+    <video loop="" autoplay="">
+        <source src="/images/work/laPoste-ces-2017/decode.mp4" type="video/mp4">
+    </video>
+    </div>
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/work/laPoste-ces-2017/01.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/work/laPoste-ces-2017/02.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/work/laPoste-ces-2017/03.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/laPoste-ces-2017/05A.jpg" class="uk-responsive-width">
+    </div>
+
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/laPoste-ces-2017/05B.jpg" class="uk-responsive-width">
+    </div>
+
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/work/laPoste-ces-2017/04.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
+
+
+
+
+## CREDITS
+
+**Concept & Project Lead (DigitasLBi)**
+
+  - Labs Director / Creative directors : Julien Terraz
+  - Creative technologist: Stéphane Allary
+  - Motion designer : Javier Sacristan Rodriguez
+  - Software developers : Franck Youdine & Maximilien Jourdain
+  - Producer : Matthieu Carton
+  - Account directors : Remy Garnier, Stephany Niogret, Catherine Cante
+  - Project manager : Maxime Decarpentries
+
+
+**Stand design & implementation ([Publicis Event](https://www.publicisevents.com/))**
+
+  - Creative directors : Richard Arnaud
+  - Account directors : Caroline Pierret, Martine Fassler, Catherine Cante
+  - Producer : Samir Lechani (Prodway)
+
+
+
+
+
