@@ -1,0 +1,116 @@
+---
+layout: post
+title:  "Dior Eyes 2"
+date: 	Sept 22th, 2017 12:00:00am
+categories: work
+comments: true
+preview: "images/work/dior-eyes-2/01-800.jpg"
+excerpt: "Dior Eyes, the most ergonomic virtual reality helmet in the world."
+---
+
+
+
+<iframe src="https://player.vimeo.com/video/235007077" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width" style="background-color:#0f1115"></iframe>
+
+
+DigitasLBi Paris had been briefed by la Maison Dior to breathe new life into the customer experience. The Labs was chosen to design and manufacture Dior Eyes, the most innovative and ergonomic virtual reality helmet in the world. Users of the Dior Eyes will enjoy 360° visits in the backstage of the fashion show or iconic Dior places.
+
+
+
+<div class="uk-grid" data-uk-grid-margin="">
+
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/work/dior-eyes-2/10.jpg" class="uk-responsive-width">
+    </div>
+
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/dior-eyes-2/03.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/dior-eyes-2/04.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/dior-eyes-2/05.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/dior-eyes-2/06.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/dior-eyes-2/08.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/dior-eyes-2/09.jpg" class="uk-responsive-width">
+    </div>
+
+        <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/work/dior-eyes-2/11.jpg" class="uk-responsive-width">
+    </div>
+        <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/work/dior-eyes-2/12.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
+
+
+## CREDITS
+
+**Concept & Project Lead (DigitasLBi)**
+
+
+- Labs director / Creative Lead : Julien Terraz
+- Creative technologist : Stéphane Allary
+- Creative director : Jean-Francois Ziegelmeyer
+- Digital producer : Matthieu Carton
+- Account director : Stéphane Le Flohic
+- Project manager : Maxime Decarpentries
+- Creative coder (Android App) : Franck Youdine
+- Creative coder (Back Office) : Maximilien Jourdain
+- Art director (Android App) : Aymeric Pepin
+- UX designer (Android App) : Sebastien Calvez Jimenez
+- Press relation : Sarah Coutin
+- Logistic : Wahid Sellami
+
+**Case Study (DigitasLBi)**
+
+- Lead motion designer : David Sultan
+- Motion designer : Javier Sacristan Rodriguez
+- Art director : Sarah Scherrer
+- Director of photography : Valention Tesson
+
+**Design ([Eliumstudio](http://www.eliumstudio.com/))**
+
+- Head of industrial designer : Pierre Garner
+- Senior industrial designer : Arthur Farre
+- Industrial designer : Thibaut Barbedette
+- Packaging designer : Nieves Contreras
+
+**Mechanical production ([Novall](http://www.novall.fr/))**
+
+- Head of mechanical engineer : Ronald Bosch
+- Mechanical engineer : Ludovic Lauer
+
+**Prototyping ([Euromodel](http://euromodel.fr/))**
+
+- Head of prototyping : Stéphane Millot
+- Prototyping assistant : Karen Villanova
+
+**Packaging ([CNC](http://www.carton-nylon-coton.fr/fr/))**
+
+- Packaging manager : Paola Pruvost
+
+**Mechanical production ([LCO](https://www.arrkeurope.com/fr/groupe/arrk-en-details/arrklco-protomoule/))**
+
+- Project manager : Samuel Fontanel
+
+**Sound production ([Prodigious](http://www.prodigious.com/))**
+
+- Producer : Clement Bonnet
+- Sound engineers and Sound designers : Sidney Guillen & Florentin Foucault
+- Voice-Over : François Lidove & Geoffrey Bateman
+
+
+
+
+
+
+
