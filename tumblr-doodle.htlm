@@ -201,7 +201,21 @@
                 </div>
             </div>
         {/block:Video}  
-        --> 
+         -->
+         {block:VideoThumbnail}
+        <div>
+            <div class="uk-thumbnail">
+                <img src="{VideoThumbnailURL}" width="{PhotoWidth-500}"height="{PhotoHeight-500}" />
+                {block:Caption}
+                <div class="uk-thumbnail-caption">{Caption}</div>
+                {/block:Caption}
+                <a class=" uk-float-right uk-text-muted uk-text-small" href="{Permalink}"> {TimeAgo}</a>
+            </div>
+        </div>
+         
+            
+        {/block:VideoThumbnail}
+
       {/block:Posts}
     </div>
 
