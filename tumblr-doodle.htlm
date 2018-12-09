@@ -25,7 +25,8 @@ http://patorjk.com/software/taag/#p=testall&f=Graffiti&t=TARGZ.FR
     <meta name="text:Disqus Shortname" content="" />
     <meta name="google-site-verification" content="vA_oiYwVvcoicBgcpNcudHWatg_YIW-HizPkfOuHRYA" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="https://static.tumblr.com/9cdluu4/CZVo92atn/uikit.min.css" rel="stylesheet">
+  <!-- <link href="https://static.tumblr.com/9cdluu4/CZVo92atn/uikit.min.css" rel="stylesheet"> -->
+  <link href="https://static.tumblr.com/9cdluu4/p0ipjh111/uikit.targz-tumblr.css" rel="stylesheet">
   <link href="https://static.tumblr.com/9cdluu4/9Nho92ba5/style.css" rel="stylesheet">
  
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
@@ -63,10 +64,10 @@ http://patorjk.com/software/taag/#p=testall&f=Graffiti&t=TARGZ.FR
     <h1><a href="http://targz.fr">Julien Terraz</a></h1>
     <p class="uk-text-muted ">{Description}</p>
     <ul class="uk-subnav uk-subnav-pill">
-      <li><a href="http://targz.fr">WORKS</a></li>
+      <li><a href="http://targz.fr">WORK</a></li>
       <li><a href="http://targz.fr/leisure/">LEISURE</a></li>
       <li class="uk-active"><a href="http://targz.xyz">DOODLE</a></li>
-      <li><a href="http://targz.pictures/">PICTURES</a></li>
+      <li><a href="http://targz.pictures/">SHOT</a></li>
     </ul>
 
 
@@ -279,16 +280,13 @@ http://patorjk.com/software/taag/#p=testall&f=Graffiti&t=TARGZ.FR
   <div class="uk-block uk-block-secondary uk-contrast">
     <div class="uk-container">
         <h4>Let's keep in touch</h4>
-        <a href="https://www.facebook.com/targz"><i class="uk-icon-facebook uk-icon-button"></i></a>
-<a href="https://www.twitter.com/targz"><i class="uk-icon-twitter uk-icon-button"></i></a>
-<a href="https://www.pinterest.com/targz"><i class="uk-icon-pinterest uk-icon-button"></i></a>
-<a href="https://www.linkedin.com/in/julienterraz"><i class="uk-icon-linkedin uk-icon-button"></i></a>
-<a href="https://instagram.com/targz"><i class="uk-icon-instagram uk-icon-button"></i></a>
-<a href="https://github.com/targz"><i class="uk-icon-github uk-icon-button"></i></a>
-<a href="https://www.flickr.com/targz"><i class="uk-icon-flickr uk-icon-button"></i></a>
-
-<a href="https://www.snapchat.com/add/targz"><i class="uk-icon-snapchat uk-icon-button"></i></a>
-<a href="https://vine.co/targz"><i class="uk-icon-vine uk-icon-button"></i></a>
+        <a href="https://instagram.com/targz"><i class="uk-icon-instagram uk-icon-button"></i></a>
+        <a href="https://www.twitter.com/targz"><i class="uk-icon-twitter uk-icon-button"></i></a>
+        <a href="https://www.pinterest.com/targz"><i class="uk-icon-pinterest uk-icon-button"></i></a>
+        <a href="https://www.linkedin.com/in/julienterraz"><i class="uk-icon-linkedin uk-icon-button"></i></a>
+        <a href="https://github.com/targz"><i class="uk-icon-github uk-icon-button"></i></a>
+        <a href="https://www.flickr.com/targz"><i class="uk-icon-flickr uk-icon-button"></i></a>
+        <a href="https://vine.co/targz"><i class="uk-icon-vine uk-icon-button"></i></a>
 
 
         <p class="uk-text-small uk-text-muted uk-float-right">Copyright © 2016 Julien TERRAZ - Powered by <a href="http://tumblr.com/">Tumblr</a></p>
