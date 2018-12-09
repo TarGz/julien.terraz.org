@@ -55,6 +55,14 @@ Everything started with my office LEgo wall, we started making pixel art using s
     </div>
 </div>
 
+### 1 IMAGES
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/template1200.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
 
 ### VINE GRID
 
