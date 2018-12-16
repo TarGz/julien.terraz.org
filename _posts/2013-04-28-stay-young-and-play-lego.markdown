@@ -2,13 +2,13 @@
 layout: post
 title:  "Stay yound and play Lego"
 date: 	Apr 28th, 2013 12:00:00am
-categories: project
+categories: leisure
 comments: true
-preview: "images/project/stayyoung/01-800.jpg"
+preview: "images/leisure/stayyoung/01-800.jpg"
 excerpt: "I made a motivational Lego poster that remind me to keep playing Lego"
 ---
 
-![Stay young and play Lego](/images/project/stayyoung/07.jpg)
+![Stay young and play Lego](/images/leisure/stayyoung/07.jpg)
 
 <div class="uk-grid" data-uk-grid-margin="">
 
@@ -31,11 +31,11 @@ excerpt: "I made a motivational Lego poster that remind me to keep playing Lego"
         </p>
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/project/stayyoung/05.jpg" class="uk-responsive-width">
+         <img src="/images/leisure/stayyoung/05.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/project/stayyoung/plan.jpg" class="uk-responsive-width"><br/><br/><br/>
-         <img src="/images/project/stayyoung/04.jpg" class="uk-responsive-width">
+         <img src="/images/leisure/stayyoung/plan.jpg" class="uk-responsive-width"><br/><br/><br/>
+         <img src="/images/leisure/stayyoung/04.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
         <h3>BUILD YOUR OWN</h3>
@@ -56,147 +56,147 @@ excerpt: "I made a motivational Lego poster that remind me to keep playing Lego"
         <tr>
         <td>300521</td>
         <td>BRICK 1X1</td>
-        <td><img src="/images/project/stayyoung/bom/image001.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image001.png" width="40px"></td>
         <td>3005</td>
         <td>6</td>
         </tr>
         <tr>
         <td>245626</td>
         <td>BRICK 2X6</td>
-        <td><img src="/images/project/stayyoung/bom/image002.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image002.png" width="40px"></td>
         <td>44237</td>
         <td>4</td>
         </tr>
         <tr>
         <td>300726</td>
         <td>BRICK 2X8</td>
-        <td><img src="/images/project/stayyoung/bom/image003.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image003.png" width="40px"></td>
         <td>3007</td>
         <td>36</td>
         </tr>
         <tr>
         <td>302401</td>
         <td>PLATE 1X1</td>
-        <td><img src="/images/project/stayyoung/bom/image004.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image004.png" width="40px"></td>
         <td>3024</td>
         <td>4</td>
         </tr>
         <tr>
         <td>302424</td>
         <td>PLATE 1X1</td>
-        <td><img src="/images/project/stayyoung/bom/image005.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image005.png" width="40px"></td>
         <td>3024</td>
         <td>24</td>
         </tr>
         <tr>
         <td>302301</td>
         <td>PLATE 1X2</td>
-        <td><img src="/images/project/stayyoung/bom/image006.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image006.png" width="40px"></td>
         <td>3023</td>
         <td>44</td>
         </tr>
         <tr>
         <td>302324</td>
         <td>PLATE 1X2</td>
-        <td><img src="/images/project/stayyoung/bom/image007.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image007.png" width="40px"></td>
         <td>3023</td>
         <td>13</td>
         </tr>
         <tr>
         <td>362301</td>
         <td>PLATE 1X3</td>
-        <td><img src="/images/project/stayyoung/bom/image008.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image008.png" width="40px"></td>
         <td>3623</td>
         <td>5</td>
         </tr>
         <tr>
         <td>362324</td>
         <td>PLATE 1X3</td>
-        <td><img src="/images/project/stayyoung/bom/image009.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image009.png" width="40px"></td>
         <td>3623</td>
         <td>3</td>
         </tr>
         <tr>
         <td>302201</td>
         <td>PLATE 2X2</td>
-        <td><img src="/images/project/stayyoung/bom/image010.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image010.png" width="40px"></td>
         <td>3022</td>
         <td>12</td>
         </tr>
         <tr>
         <td>371001</td>
         <td>PLATE 1X4</td>
-        <td><img src="/images/project/stayyoung/bom/image011.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image011.png" width="40px"></td>
         <td>3710</td>
         <td>1</td>
         </tr>
         <tr>
         <td>302101</td>
         <td>PLATE 2X3</td>
-        <td><img src="/images/project/stayyoung/bom/image012.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image012.png" width="40px"></td>
         <td>3021</td>
         <td>7</td>
         </tr>
         <tr>
         <td>366601</td>
         <td>PLATE 1X6</td>
-        <td><img src="/images/project/stayyoung/bom/image013.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image013.png" width="40px"></td>
         <td>3666</td>
         <td>45</td>
         </tr>
         <tr>
         <td>366624</td>
         <td>PLATE 1X6</td>
-        <td><img src="/images/project/stayyoung/bom/image014.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image014.png" width="40px"></td>
         <td>3666</td>
         <td>7</td>
         </tr>
         <tr>
         <td>302001</td>
         <td>PLATE 2X4</td>
-        <td><img src="/images/project/stayyoung/bom/image015.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image015.png" width="40px"></td>
         <td>3020</td>
         <td>22</td>
         </tr>
         <tr>
         <td>447701</td>
         <td>PLATE 1X10</td>
-        <td><img src="/images/project/stayyoung/bom/image016.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image016.png" width="40px"></td>
         <td>4477</td>
         <td>2</td>
         </tr>
         <tr>
         <td>379501</td>
         <td>PLATE 2X6</td>
-        <td><img src="/images/project/stayyoung/bom/image017.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image017.png" width="40px"></td>
         <td>3795</td>
         <td>14</td>
         </tr>
         <tr>
         <td>303401</td>
         <td>PLATE 2X8</td>
-        <td><img src="/images/project/stayyoung/bom/image018.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image018.png" width="40px"></td>
         <td>3034</td>
         <td>8</td>
         </tr>
         <tr>
         <td>383201</td>
         <td>PLATE 2X10</td>
-        <td><img src="/images/project/stayyoung/bom/image019.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image019.png" width="40px"></td>
         <td>3832</td>
         <td>8</td>
         </tr>
         <tr>
         <td>244501</td>
         <td>PLATE 2X12</td>
-        <td><img src="/images/project/stayyoung/bom/image020.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image020.png" width="40px"></td>
         <td>2445</td>
         <td>2</td>
         </tr>
         <tr>
         <td>381123</td>
         <td>BASE PLATE</td>
-        <td><img src="/images/project/stayyoung/bom/image021.png" width="40px"></td>
+        <td><img src="/images/leisure/stayyoung/bom/image021.png" width="40px"></td>
         <td>32X32</td>
         <td>6</td>
         </tr>

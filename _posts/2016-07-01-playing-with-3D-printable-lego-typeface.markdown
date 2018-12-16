@@ -2,16 +2,16 @@
 layout: post
 title:  "Playing with 3D printable Lego typeface"
 date: 	Jun 20th, 2016 12:00:00am
-categories: project
+categories: leisure
 comments: true
-preview: "images/project/brickolage/brickfont/01.jpg"
+preview: "images/leisure/brickolage/brickfont/01.jpg"
 excerpt: "Writting with Lego have been something I've been interested for a while, my 3D printer push me to go further"
 ---
-![Lego wall](/images/project/brickolage/brickfont/02.jpg)
+![Lego wall](/images/leisure/brickolage/brickfont/02.jpg)
 
 I have been fan of Lego and pixel art since my childwood so I decided to create a Lego wall in my DigitasLBi Labs office. Then we started making pixel art using small bricks. I set this wall as an open canvas where everybody could create, I started with Mario Bross and then Bomberman appear with bob the sponge, space invaders, etc. And yes I also made a Lego Qr-Code :-)... Later people used the wall to display messages or font based logo. Design text message using Lego is quite chanlenging and you often end up with a deceptive result. That's where the idea of creating some "Lego" brick fontface came.
 
-![Lego wall](/images/project/brickolage/02.jpg)
+![Lego wall](/images/leisure/brickolage/02.jpg)
 
 
 ### THE FIRST POC
@@ -21,13 +21,13 @@ I started designing "Lego" chars by hand using 123Design but that rapidly became
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/square04.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/square04.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/square05.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/square05.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/square06.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/square06.jpg" class="uk-responsive-width">
     </div>
 </div>
 
@@ -55,7 +55,7 @@ do
 
 > I now have a fully configurable bash script capable of generating a full set of chars
 
-![Brickolage](/images/project/brickolage/09.jpg)
+![Brickolage](/images/leisure/brickolage/09.jpg)
 
 ### USING EXISTING FONT-FACE
 
@@ -64,13 +64,13 @@ Using any existing font is a great source of creativity, thanks to my OpenScad s
 #### *Long Shot*
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-        <img src="/images/project/brickolage/long-shot/01.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/long-shot/01.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/long-shot/02.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/long-shot/02.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/long-shot/03.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/long-shot/03.jpg" class="uk-responsive-width">
     </div>
 </div>
 
@@ -78,13 +78,13 @@ Using any existing font is a great source of creativity, thanks to my OpenScad s
 #### *Phosphate*
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-        <img src="/images/project/brickolage/Phosphate/01.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/Phosphate/01.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/Phosphate/02.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/Phosphate/02.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/Phosphate/04.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/Phosphate/04.jpg" class="uk-responsive-width">
     </div>
 </div>
 
@@ -92,13 +92,13 @@ Using any existing font is a great source of creativity, thanks to my OpenScad s
 #### *Birds of paradise*
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-        <img src="/images/project/brickolage/birds-of-paradise/01.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/birds-of-paradise/01.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/birds-of-paradise/02.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/birds-of-paradise/02.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/birds-of-paradise/03.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/birds-of-paradise/03.jpg" class="uk-responsive-width">
     </div>
 </div>
 
@@ -112,13 +112,13 @@ Using any existing font is a great source of creativity, thanks to my OpenScad s
 
 <div class="uk-grid" data-uk-grid-margin="" id="BRICKFONT">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-        <img src="/images/project/brickolage/brickfont/01.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/brickfont/01.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/brickfont/02.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/brickfont/02.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/brickfont/04.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/brickfont/04.jpg" class="uk-responsive-width">
     </div>
 
 </div>
@@ -127,13 +127,13 @@ Using any existing font is a great source of creativity, thanks to my OpenScad s
 
 <div class="uk-grid" data-uk-grid-margin="" id="BRICKOLAGE">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-        <img src="/images/project/brickolage/brickolage/01.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/brickolage/01.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/brickolage/02.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/brickolage/02.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-        <img src="/images/project/brickolage/brickolage/04.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/brickolage/04.jpg" class="uk-responsive-width">
     </div>
 </div>
 
@@ -142,7 +142,7 @@ Using any existing font is a great source of creativity, thanks to my OpenScad s
 
 ### 3D PRINTING CHALENGES
 
-![Brickolage](/images/project/brickolage/17.jpg)
+![Brickolage](/images/leisure/brickolage/17.jpg)
 
 Once designed and generated chars have to be printed. This pieces seamms easy to printed at the first tougth but I faced a lot of issues with bridging and overall quality. After a lot of different seettings and software I finaly been abble to print acceptable quality using [Simplify 3D](https://www.simplify3d.com/).
 
@@ -163,33 +163,33 @@ This technic of generating brick from font inspired me to create some motivation
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
         <blockquote>La vie est belle</blockquote>
-        <img src="/images/project/brickolage/square03.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/square03.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
         <blockquote>La vie est belle</blockquote>
-        <img src="/images/project/brickolage/square07.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/square07.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
         <blockquote>Non smoking area</blockquote>
-        <img src="/images/project/brickolage/square08.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/square08.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
         <blockquote>All you need is...</blockquote>
-        <img src="/images/project/brickolage/square02.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/square02.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
         <blockquote>Kids door sign</blockquote>
-        <img src="/images/project/brickolage/square09.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/square09.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
         <blockquote>All you need is love</blockquote>
-        <img src="/images/project/brickolage/square10.jpg" class="uk-responsive-width">
+        <img src="/images/leisure/brickolage/square10.jpg" class="uk-responsive-width">
     </div>
 </div>
 
 > Stay young and play Lego derivated from my [Stay Young poster](/project/stay-young-and-play-lego/).
 
-![Brickolage](/images/project/brickolage/vertical01.jpg)
+![Brickolage](/images/leisure/brickolage/vertical01.jpg)
 
 I'm still exploring what to do with this, any ideas or maybe you want a custom font or a door sign ? feel free to ask.
 

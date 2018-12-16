@@ -2,16 +2,16 @@
 layout: post
 title:  "3D printed Lythophanies"
 date: 	Oct 2nd, 2015 12:00:00am
-categories: project
+categories: leisure
 comments: true
-preview: "images/project/lytho/01-800.jpg"
+preview: "images/leisure/lytho/01-800.jpg"
 excerpt: "Playing with lithophane and a 3D printer"
 ---
 
 I have discovered lithophane on [thingverse](http://www.thingiverse.com/thing:74322) and I have try to print some, results were pretty bad but also I discovered that people were pretty amazed by my first attempt.
 I have try a lot of different software, and finaly found [this tool](http://3dp.rocks/lithophane/) that match my needs.
 
-![Lythophanie](/images/project/lytho/poc.jpg)
+![Lythophanie](/images/leisure/lytho/poc.jpg)
 
 ### PRINT CHALENGE
 
@@ -22,13 +22,13 @@ I have try a bunch of settings, slicers parameters and fillaments...
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/project/lytho/exp0.jpg" class="uk-responsive-width">
+         <img src="/images/leisure/lytho/exp0.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/project/lytho/exp1.jpg" class="uk-responsive-width">
+         <img src="/images/leisure/lytho/exp1.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/project/lytho/exp2.jpg" class="uk-responsive-width">
+         <img src="/images/leisure/lytho/exp2.jpg" class="uk-responsive-width">
     </div>
 </div>
 
@@ -40,10 +40,10 @@ I get the best result using a vertical print position and a [natural PLA](https:
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/project/lytho/02.jpg" class="uk-responsive-width">
+         <img src="/images/leisure/lytho/02.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/project/lytho/01.jpg" class="uk-responsive-width">
+         <img src="/images/leisure/lytho/01.jpg" class="uk-responsive-width">
     </div>
 </div>
 

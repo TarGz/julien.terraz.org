@@ -2,13 +2,13 @@
 layout: post
 title:  "roseindigo.com"
 date: 	Sep 28th, 2010 12:00:00am
-categories: project
+categories: work
 comments: true
-preview: "images/project/roseindigo/01-800.jpg"
+preview: "images/work/roseindigo/01-800.jpg"
 excerpt: "A used clothes e-commerce website built with my wife"
 ---
 
-![Template image](/images/project/roseindigo/02b.jpg)
+![Template image](/images/work/roseindigo/02b.jpg)
 
 ## CONCEPT
 
@@ -37,13 +37,13 @@ We "simply" had to build an e-commerce website, at the begining we were focused 
         <p>We have been overload by bag demand it feel like a lot of people want to sell used clothes but unfortunatly we can't buy every used clothes of our market (France)</p>
     </div>
     <div class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/project/roseindigo/05-800.jpg" class="uk-responsive-width">
+         <img src="/images/work/roseindigo/05-800.jpg" class="uk-responsive-width">
     </div>
 </div>
 
 ## BIG AMOUNT OF CLOTHES
 To make this business interesting we needed to handle a big volume of clothes because margin are tight. We are generally putting online aroung 300 clothes per week. Each clothes require a lot of work, from putting it in the rigth categorie, write a description, take 2 or 3 pictures and push all this online.
-![Template image](/images/project/roseindigo/04.jpg)
+![Template image](/images/work/roseindigo/04.jpg)
 
 
 ## SHOOTING & AUTOMATION
@@ -54,7 +54,7 @@ For both contributing the pictures we needed some automation.
 Every picture drop in folder where they are automaticaly resized, oriented, compressed and pushed on our web plateform.
 - For the contribution we are not using the PrestaShop CMS because it was to slow, we are contributing everything in Excel. Product are pushed live by using the Prestashop import feature.
 
-![Template image](/images/project/roseindigo/03.jpg)
+![Template image](/images/work/roseindigo/03.jpg)
 
 <!-- ## ROLE
 
