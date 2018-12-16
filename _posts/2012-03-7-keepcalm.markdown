@@ -9,14 +9,59 @@ excerpt: "I just had some fun playing with the Keep calm and carry on meme"
 ---
 
 
-### VADOR
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/project/keepcalm/06.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/project/keepcalm/01.jpg" class="uk-responsive-width">
+    </div>
+</div>
 
-![Keep Calm I'n not your father](/images/project/keepcalm/01.jpg)
 
-### BATMAN
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/project/keepcalm/03.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+    	<img src="/images/project/keepcalm/08.jpg" class="uk-responsive-width">
+         
+    </div>
+</div>
 
-![NA NA NA NA NA NA ](/images/project/keepcalm/03.jpg)
 
-### PACMAN
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/project/keepcalm/07.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/project/keepcalm/05.jpg" class="uk-responsive-width">
+    </div>
+</div>
 
-![Keep calm and nom nom nom](/images/project/keepcalm/05.jpg)
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/project/keepcalm/02.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/project/keepcalm/09.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/project/keepcalm/10.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/project/keepcalm/11.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/project/keepcalm/12.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/project/keepcalm/04.jpg" class="uk-responsive-width">
+    </div>
+</div>
