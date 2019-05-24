@@ -2,9 +2,9 @@
 layout: post
 title:  "Twittearth"
 date: 	Apr 22nd, 2009 12:00:00am
-categories: project
+categories: leisure
 comments: true
-preview: "images/project/twittearth/01-800.jpg"
+preview: "images/leisure/twittearth/01-800.jpg"
 excerpt: "Playing with a little tweetting earth using early stage twitter API"
 ---
 
@@ -15,7 +15,7 @@ TwittEarth, like realtime dataviz of Tweet from all around the world.
 This was an experiment of using the Twitter API at the time Tweet weren't geolocalised. I had used the Yahoo geocod API to convert city name to longitude and latitude.
 I had some cool article On TechCrunch ["TwittEarth, is eye-candy at its finest"](https://techcrunch.com/2008/04/20/twittearth-makes-twitter-a-global-experience/)
 
-![Twittearth](/images/project/twittearth/01.jpg)
+![Twittearth](/images/leisure/twittearth/01.jpg)
 
 ## ARTICLES
 

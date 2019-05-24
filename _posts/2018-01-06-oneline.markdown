@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "One line drawing"
+date: 	Jan 6th, 2018 12:00:00am
+categories: leisure
+comments: true
+preview: "images/leisure/one-line-drawing/01-800.jpg"
+excerpt: "Generating one line drawing from any image for my AxiDraw"
+---
+
+![Template image](/images/leisure/one-line-drawing/02.jpg)
+
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+        <video loop="" autoplay="" muted>
+            <source src="/images/leisure/one-line-drawing/darth1.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+        <video loop="" autoplay="" muted>
+            <source src="/images/leisure/one-line-drawing/darth2.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+        <video loop="" autoplay="" muted>
+            <source src="/images/leisure/one-line-drawing/darth3.mp4" type="video/mp4">
+        </video>
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/leisure/one-line-drawing/04.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/leisure/one-line-drawing/05.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/leisure/one-line-drawing/06.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/leisure/one-line-drawing/07.jpg" class="uk-responsive-width">
+    </div>
+</div>
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/leisure/one-line-drawing/08.jpg" class="uk-responsive-width">
+    </div>
+</div>
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/leisure/one-line-drawing/03.jpg" class="uk-responsive-width">
+    </div>
+</div>
