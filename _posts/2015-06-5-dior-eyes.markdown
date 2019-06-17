@@ -6,7 +6,7 @@ categories: work
 preview: "images/work/dior-eyes/01-800.jpg"
 excerpt: "We have helped Dior create the first VR headset that include 3D sound"
 ---
-<iframe src="https://player.vimeo.com/video/136715143?title=0&byline=0&portrait=0" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+<iframe src="https://player.vimeo.com/video/160351170?title=0&byline=0&portrait=0" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
 ### THE BRIEF 
 
