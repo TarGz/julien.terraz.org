@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "Grow 2018 interactive instalation"
+date: 	Nov 1th, 2018 12:00:00am
+categories: leisure
+comments: true
+preview: "images/leisure/grow2018/01-800.jpg"
+excerpt: "interactive instalation at Grow 2018"
+---
+
+
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/leisure/grow2018/01.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/leisure/grow2018/01.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/leisure/grow2018/01.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
+
+I've been commissioned to create an interactive installation at Grow 2018, the only constraint was the space available, a wall have been assigned to me and I could create whatever “interactive thing” I wanted. So I immediately tough that it will be the best occasion to use my Billund Mono Sans bricks and create something interactive with it. I wanted to do so for a while and I was specially interested by how attendees will appropriate the installation. 
+
+From Nov 12 to 16 @ Halle Événementielle, Ground Control
+
+https://www.grow.paris/fr/public-session/grow-3d-printed-bricks-message-board/
+
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/template1200.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1">
+        <h2>Insigth</h2>
+        <p>Conference like grow are really inspiring, I’ve been attended a bunch and every-time I felt really inspired and boosted to create things. The speakers lineup  for this year was really promising so people will be inspired.</p>
+      <h2>Concept</h2>
+        <p>Create some blank canvas where people could express their inspiration and set them in stone before going back to everyday life where inspiration kind of fade out.</p>
+    </div>
+</div>
+
+
+
+
+## INSPIRED?
+Inspired? is a triptych of canvas composed of lines where attendees could snap letter bricks on. Lines are a bias a choose to influence user to actually write sentence. Each canvas have a repository of bricks of different colors Orange and Black, Pink and Purple and Green and Black.
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/template1200.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/template1200.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/template1200.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
+## Did it worked ?
+Yes people immediately start using it… but not as expected, people did not write sentence, they mostly used it to write name and hashtag sort of things… I was a bit disappointed and I’m pretty sure now that the fact that it was pretty hard to find letter in the repository was one aspect of that. 
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/template1200.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/template1200.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
+## Takeout ?
+
+I was a bit disappointed until someone did something I wasn't expecting, he used the brick as shapes instead as letters…
+
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/template1200.jpg" class="uk-responsive-width">
+    </div>
+</div>
+
+
+
+## Thanks
+
+<dl class="uk-description-list-horizontal">
+    <dt>Nicoptere</dt>
+    <dd>for making grow and inviting me</dd>
+    <dt>Damien</dt>
+    <dd>For managing this all project</dd>
+    <dt>Martin</dt>
+    <dd>for help me designing and building the decks</dd>
+    <dt>Matthieu</dt>
+    <dd>for helping me on 3D printing</dd>
+</dl>
+
+
+
+
+
+
+

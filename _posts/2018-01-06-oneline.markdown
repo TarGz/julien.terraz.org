@@ -30,7 +30,10 @@ excerpt: "Generating one line drawing from any image for my AxiDraw"
 </div>
 
 <div class="uk-grid" data-uk-grid-margin="">
-    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+    <div class="uk-width-large-4-5 uk-width-medium-4-5 uk-width-small-1-1">
+         <img src="/images/leisure/one-line-drawing/04.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-5 uk-width-medium-1-5 uk-hidden-small">
          <img src="/images/leisure/one-line-drawing/04.jpg" class="uk-responsive-width">
     </div>
 </div>
@@ -58,7 +61,10 @@ excerpt: "Generating one line drawing from any image for my AxiDraw"
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
-    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+    <div class="uk-width-large-4-5 uk-width-medium-4-5 uk-width-small-1-1">
+         <img src="/images/leisure/one-line-drawing/03.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-5 uk-width-medium-1-5 uk-hidden-small">
          <img src="/images/leisure/one-line-drawing/03.jpg" class="uk-responsive-width">
     </div>
 </div>
