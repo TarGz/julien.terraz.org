@@ -85,7 +85,11 @@ excerpt: "Inspired by a TikTok meme… I decided to draw TikTokers"
          <img src="/images/leisure/draw-me/Draw-Me_Project.014.jpeg" class="uk-responsive-width">
     </div>
 </div>
-
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/leisure/draw-me/Draw-Me_Project.004.jpeg" class="uk-responsive-width">
+    </div>
+</div>
 
 
 
