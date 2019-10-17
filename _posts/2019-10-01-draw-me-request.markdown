@@ -4,7 +4,7 @@ title:  "Please draw me !!"
 date:   Oct 10th, 2019 12:00:00am
 categories: leisure
 comments: true
-preview: "images/leisure/draw-me/Draw-Me_Project.014.jpeg"
+preview: "images/leisure/draw-me/01-800.jpg"
 excerpt: "Inspired by a TikTok meme… I decided to draw TikTokers"
 ---
 
