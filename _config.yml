@@ -5,8 +5,8 @@ title: TARGZ
 # Name of your site (displayed in the header)
 name: Julien Terraz
 
-# Short bio or description (displayed in the header)
-description: Creative Director at Razorfish and Generative Artist Playing with technology in pursuit of creativy.  
+# Short bio or description (displayed in the header) // force
+description: Creative Director at Razorfish and Generative Artist Playing with technology in pursuit of creativity.  
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png

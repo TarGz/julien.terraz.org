@@ -4,5 +4,5 @@ Just the repository of targz.fr maked using [Jekyll](https://jekyllrb.com/) and 
 Run 
 
 ```
-jekyll serve --draft
+bundle exec jekyll serve --draft
 ```
