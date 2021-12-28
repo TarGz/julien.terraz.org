@@ -56,6 +56,9 @@ Inspired? is a triptych of canvas composed of lines where attendees could snap l
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/leisure/grow2018/24.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
          <img src="/images/leisure/grow2018/13.jpg" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
@@ -82,10 +85,17 @@ Inspired? is a triptych of canvas composed of lines where attendees could snap l
     <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
          <img src="/images/leisure/grow2018/20.jpg" class="uk-responsive-width">
     </div>
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/leisure/grow2018/21.jpg" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-3 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/leisure/grow2018/22.jpg" class="uk-responsive-width">
+    </div>
+
 </div>
 
 ## OUTCOME
-Yes people immediately start using it… but not as expected, people did not write sentence, they mostly used it to write name and hashtag sort of things…
+Yes people immediately start using it… but not as expected, people did not write sentence, they mostly used it to write name, hashtag and use the shapes of the letters to do some drawing. That was unexpected and really interesting to see people use your creation in a different way.  
 
 
 
