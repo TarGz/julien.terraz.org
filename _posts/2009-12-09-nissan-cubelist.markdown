@@ -3,7 +3,7 @@ layout: post
 title:  "Nissan Cubelist"
 date: 	Dec 15th, 2009 6:54:00pm
 categories: work
-preview: "images/work/nissan-cubelist/01-800.jpg"
+preview: "/images/work/nissan-cubelist/01-800.jpg"
 excerpt: "Creating a online secret club using an innovative navigation and a secret code generator"
 ---
 
