@@ -16,17 +16,17 @@
   <script type="application/ld+json">
   [
   {
-    "@context": "https://targz.fr{{ page.url }}",
+    "@context": "https://targz.github.io/{{ page.url }}",
     "@type": "Person",
-    "image": "https://targz.fr/targz.jpg",
+    "image": "https://targz.github.io//targz.jpg",
     "name": "Julien TERRAZ",
-    "url": "https://targz.fr"
+    "url": "https://targz.github.io/"
   },
   {% if (cat == 'personnal' or cat == 'work') %}{% if page.title %}{
     "@context": "http://targz.fr{{ page.url }}",
     "@type" : "Article",
     "name" : "{{ page.title }}",
-    "url" : "http://targz.fr/work/La-Poste-CES-2016/"
+    "url" : "https://targz.github.io/work/La-Poste-CES-2016/"
   }{% endif %}{% endif %}
   ]
   </script>
