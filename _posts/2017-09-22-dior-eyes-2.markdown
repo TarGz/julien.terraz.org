@@ -5,15 +5,14 @@ date: 	Sept 22th, 2017 12:00:00am
 categories: work
 comments: true
 preview: "images/work/dior-eyes-2/01-800.jpg"
-excerpt: "Dior Eyes, the most ergonomic virtual reality helmet in the world."
+excerpt: "Dior Eyes, the most ergonomic virtual reality headset in the world."
 ---
 
 
 
-<iframe src="https://player.vimeo.com/video/236054604" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width" style="background-color:#0f1115"></iframe>
+<iframe src="https://www.youtube.com/embed/25o9OZV0SfE?si=61tPHwC8dnXvmTfh" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width" style="background-color:#0f1115"></iframe>
 
 
-DigitasLBi Paris had been briefed by la Maison Dior to breathe new life into the customer experience. The Labs was chosen to design and manufacture Dior Eyes, the most innovative and ergonomic virtual reality helmet in the world. Users of the Dior Eyes will enjoy 360° visits in the backstage of the fashion show or iconic Dior places.
 
 
 

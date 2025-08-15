@@ -9,8 +9,7 @@ excerpt: "An Immersive experience that give the spectator The ubiquity gift"
 ---
 
 
-<iframe src="https://player.vimeo.com/video/200365931" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
-
+<iframe src="https://www.youtube.com/embed/c4Dkb4O4vFo?si=DNmeohOyErWV1Zau" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
 
 For the 3rd time, La Poste revealed their innovative approach at the 2017 Las Vegas CES. This year, they asked DigitasLBi Labs to design an immersive experience that presents their new connected services.

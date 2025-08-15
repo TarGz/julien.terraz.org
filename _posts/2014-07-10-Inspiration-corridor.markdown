@@ -8,7 +8,8 @@ excerpt: "We have created a mashup of technologies that help peoples discover cl
 ---
 
 
-<iframe src="https://player.vimeo.com/video/88783300?title=0&byline=0&portrait=0" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+<iframe src="https://www.youtube.com/embed/PbY0oeTSHvY?si=G4w2buvV9m_uhpNY" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
+
 
 
 With Klepierre, DigitasLBi Labs created “Inspiration Corridor” to illustrate the ongoing revolution and future opportunities for unique shopping experiences in malls.
