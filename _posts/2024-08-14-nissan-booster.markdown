@@ -8,7 +8,10 @@ preview: "images/work/nissan-booster/01-800.jpg"
 excerpt: "Nissan Booster is a Web 3 project that integrates NFTs and fan engagement for Nissan's Formula E team."
 ---
 
-<iframe width="1200" height="675" src="https://www.youtube.com/embed/HiipJ3ND7IY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="uk-responsive-width" allowfullscreen></iframe>
+<iframe width="1200" height="675" src="https://www.youtube.com/embed/NS-aJBZ5zuQ?si=Qh9W_RHHGsNc8EI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="uk-responsive-width" allowfullscreen></iframe>
+
+
+
 
 ## INTRODUCTION
 
@@ -16,7 +19,7 @@ Nissan Booster is a Web 3 project that integrates NFTs and fan engagement for Ni
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/nissan-booster/01-800.jpg" class="uk-responsive-width">
+         <img src="/images/work/nissan-booster/03.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -28,6 +31,7 @@ Fans can predict race outcomes, earn NFT rewards, and even gain access to exclus
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
          <img src="/images/work/nissan-booster/02.jpg" class="uk-responsive-width">
     </div>
+
 </div>
 
 ## WEB3 INTEGRATION
