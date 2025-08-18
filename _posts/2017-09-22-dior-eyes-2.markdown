@@ -4,7 +4,7 @@ title:  "Dior Eyes 2"
 date: 	Sept 22th, 2017 12:00:00am
 categories: work
 comments: true
-preview: "images/work/dior-eyes-2/01-800.jpg"
+preview: "images/work/dior-eyes-2/01-800.webp"
 excerpt: "Dior Eyes, the most ergonomic virtual reality headset in the world."
 ---
 
@@ -19,33 +19,33 @@ excerpt: "Dior Eyes, the most ergonomic virtual reality headset in the world."
 <div class="uk-grid" data-uk-grid-margin="">
 
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/10.jpg" class="uk-responsive-width">
+         <img src="/images/work/dior-eyes-2/10.webp" class="uk-responsive-width">
     </div>
 
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/03.jpg" class="uk-responsive-width">
+         <img src="/images/work/dior-eyes-2/03.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/04.jpg" class="uk-responsive-width">
+         <img src="/images/work/dior-eyes-2/04.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/05.jpg" class="uk-responsive-width">
+         <img src="/images/work/dior-eyes-2/05.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/06.jpg" class="uk-responsive-width">
+         <img src="/images/work/dior-eyes-2/06.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/08.jpg" class="uk-responsive-width">
+         <img src="/images/work/dior-eyes-2/08.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/09.jpg" class="uk-responsive-width">
+         <img src="/images/work/dior-eyes-2/09.webp" class="uk-responsive-width">
     </div>
 
         <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/11.jpg" class="uk-responsive-width">
+         <img src="/images/work/dior-eyes-2/11.webp" class="uk-responsive-width">
     </div>
         <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/12.jpg" class="uk-responsive-width">
+         <img src="/images/work/dior-eyes-2/12.webp" class="uk-responsive-width">
     </div>
 </div>
 

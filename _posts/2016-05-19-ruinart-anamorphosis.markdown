@@ -4,7 +4,7 @@ title:  "Ruinart Anamorphosis"
 date: 	Apr 28th, 2016 12:00:00am
 categories: work
 comments: true
-preview: "images/work/ruinart-anamorphosis/cover-800.jpg"
+preview: "images/work/ruinart-anamorphosis/cover-800.webp"
 excerpt: "With a pioneering spirit and an iconic heritage, Maison Ruinart has worked with DigitasLBi Labs to offer a brand new experience in art fairs and pop-up stores ; a contemporary reinterpretation of the anamorphosis showcasing an animation celebrating The Maison Ruinart, made in collaboration with the artist Ugo Gattoni."
 ---
 
@@ -16,16 +16,16 @@ excerpt: "With a pioneering spirit and an iconic heritage, Maison Ruinart has wo
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/ruinart-anamorphosis/ruinart8.jpg" class="uk-responsive-width">
+         <img src="/images/work/ruinart-anamorphosis/ruinart8.webp" class="uk-responsive-width">
     </div>
 </div>
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/ruinart-anamorphosis/ruinart2.jpg" class="uk-responsive-width">
+         <img src="/images/work/ruinart-anamorphosis/ruinart2.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/ruinart-anamorphosis/ruinart3.jpg" class="uk-responsive-width">
+         <img src="/images/work/ruinart-anamorphosis/ruinart3.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -34,7 +34,7 @@ excerpt: "With a pioneering spirit and an iconic heritage, Maison Ruinart has wo
          <img src="/images/work/ruinart-anamorphosis/ruinart4.gif" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/ruinart-anamorphosis/ruinart7.jpg" class="uk-responsive-width">
+         <img src="/images/work/ruinart-anamorphosis/ruinart7.webp" class="uk-responsive-width">
     </div>
 </div>
 

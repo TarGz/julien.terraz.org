@@ -4,7 +4,7 @@ title: "Nissan Booster"
 date: Aug 14th, 2024 12:00:00am
 categories: work
 comments: true
-preview: "images/work/nissan-booster/01-800.jpg"
+preview: "images/work/nissan-booster/01-800.webp"
 excerpt: "Nissan Booster is a Web 3 project that integrates NFTs and fan engagement for Nissan's Formula E team."
 ---
 
@@ -29,7 +29,7 @@ Fans can predict race outcomes, earn NFT rewards, and even gain access to exclus
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/nissan-booster/02.jpg" class="uk-responsive-width">
+         <img src="/images/work/nissan-booster/02.webp" class="uk-responsive-width">
     </div>
 
 </div>

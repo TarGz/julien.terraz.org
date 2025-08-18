@@ -3,7 +3,7 @@ layout: post
 title:  "La Poste CES 2016"
 date: 	Jan 06, 2016 at 5:31pm
 categories: work
-preview: "images/work/laPoste-ces-2016/01-800.jpg"
+preview: "images/work/laPoste-ces-2016/01-800.webp"
 excerpt: "We have created a immersivve instalation for La Poste at the CES 2016"
 ---
 
@@ -24,7 +24,7 @@ La poste wanted to express their new "connected services" positionning on their 
 ## THE IDEA
 
 We started the creative process by wondering what should be the good narative. Quickly the first conviction came that we should merge the immersive part and the connected object demo. The other main idea was to create something that make feel people they are watching a real scene. Thoses two conviction drive us to use some high resolution vidéo and screens that will be connected with real objects.
-![La Poste CES 2016](/images/work/laPoste-ces-2016/01.jpg)
+![La Poste CES 2016](/images/work/laPoste-ces-2016/01.webp)
 
 ## THE SOLUTION
 
@@ -62,14 +62,14 @@ Then time to ship all the materials to Vegas. After puting everything in fligth 
 
 
 
-![La Poste CES 2016](/images/work/laPoste-ces-2016/02.jpg)
-![La Poste CES 2016](/images/work/laPoste-ces-2016/03.jpg)
-![La Poste CES 2016](/images/work/laPoste-ces-2016/04.jpg)
-![La Poste CES 2016](/images/work/laPoste-ces-2016/05.jpg)
-![La Poste CES 2016](/images/work/laPoste-ces-2016/06.jpg)
-![La Poste CES 2016](/images/work/laPoste-ces-2016/07.jpg)
-![La Poste CES 2016](/images/work/laPoste-ces-2016/08.jpg)
-![La Poste CES 2016](/images/work/laPoste-ces-2016/09.jpg)
+![La Poste CES 2016](/images/work/laPoste-ces-2016/02.webp)
+![La Poste CES 2016](/images/work/laPoste-ces-2016/03.webp)
+![La Poste CES 2016](/images/work/laPoste-ces-2016/04.webp)
+![La Poste CES 2016](/images/work/laPoste-ces-2016/05.webp)
+![La Poste CES 2016](/images/work/laPoste-ces-2016/06.webp)
+![La Poste CES 2016](/images/work/laPoste-ces-2016/07.webp)
+![La Poste CES 2016](/images/work/laPoste-ces-2016/08.webp)
+![La Poste CES 2016](/images/work/laPoste-ces-2016/09.webp)
 
 
 ### MAKING OF 

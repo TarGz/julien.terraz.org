@@ -4,7 +4,7 @@ title: "Orange Kinetic Balls"
 date: Jun 15th, 2019 12:00:00am
 categories: work
 comments: true
-preview: "images/work/orange-kinetic-balls/01-800.jpg"
+preview: "images/work/orange-kinetic-balls/01-800.webp"
 excerpt: "An eye-catching architectural installation for Vivatech 2019 conveying movement and acceleration for Orange's startup booster program."
 ---
 
@@ -16,7 +16,7 @@ For its presence at the Vivatech 2019 show in Paris, Orange asked Publicis.Sapie
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/orange-kinetic-balls/01-800.jpg" class="uk-responsive-width">
+         <img src="/images/work/orange-kinetic-balls/01-800.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -26,12 +26,12 @@ The kinetic installation was designed to embody the dynamic energy and accelerat
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/orange-kinetic-balls/04.jpg" class="uk-responsive-width">
+         <img src="/images/work/orange-kinetic-balls/04.webp" class="uk-responsive-width">
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/orange-kinetic-balls/04.jpg" class="uk-responsive-width">
+         <img src="/images/work/orange-kinetic-balls/04.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -41,12 +41,12 @@ The architectural installation featured suspended kinetic balls that moved in ch
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/orange-kinetic-balls/02.jpg" class="uk-responsive-width">
+         <img src="/images/work/orange-kinetic-balls/02.webp" class="uk-responsive-width">
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/orange-kinetic-balls/03.jpg" class="uk-responsive-width">
+         <img src="/images/work/orange-kinetic-balls/03.webp" class="uk-responsive-width">
     </div>
 </div>
 

@@ -4,7 +4,7 @@ title: "Nismo Designer"
 date: Aug 15th, 2024 12:00:00am
 categories: work
 comments: true
-preview: "images/work/nismo-designer/01-800.jpg"
+preview: "images/work/nismo-designer/01-800.webp"
 excerpt: "Nismo's Designer tool allows users to create their own Nissan Formula E car livery and share custom designs."
 ---
 
@@ -16,7 +16,7 @@ Nismo's Designer tool allows users to create their own Nissan Formula E car live
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/01-800.jpg" class="uk-responsive-width">
+         <img src="/images/work/nismo-designer/01-800.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -26,10 +26,10 @@ The interactive designer allows Formula E fans to customize their ideal Nissan l
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/02.jpg" class="uk-responsive-width">
+         <img src="/images/work/nismo-designer/02.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/03.jpg" class="uk-responsive-width">
+         <img src="/images/work/nismo-designer/03.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -39,10 +39,10 @@ Users can share their creations and browse designs from other fans, building a c
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/04.jpg" class="uk-responsive-width">
+         <img src="/images/work/nismo-designer/04.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/05.jpg" class="uk-responsive-width">
+         <img src="/images/work/nismo-designer/05.webp" class="uk-responsive-width">
     </div>
 </div>
 

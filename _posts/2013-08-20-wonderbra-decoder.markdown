@@ -3,7 +3,7 @@ layout: post
 title:  "Wonderbra Decoder"
 date: 	Aug 20th, 2013 6:44:00pm
 categories: work
-preview: "images/work/wonderbra-decoder/01-800.jpg"
+preview: "images/work/wonderbra-decoder/01-800.webp"
 excerpt: "Discover the secret of beauty of Adiana :-)"
 ---
 
@@ -20,7 +20,7 @@ Wonderbra, the lingerie brand with an emblematic product: the push up. But who k
 
 For its new campaign, Wonderbra sets digital at the core of its dispositive and renew with the brand’s fun thanks to a key feminine accessory: the smartphone. Wonderbra Decoder, the very first lingerie campaign that presents the model… with clothes on! An integrated campaign that lets you truly “decode” Adriana’s silhouette in print, outdoor advertising, and on YouTube.
 
-![Wonderbra Decoder](/images/work/wonderbra-decoder/02.jpg)
+![Wonderbra Decoder](/images/work/wonderbra-decoder/02.webp)
 
 ### TECHNOLOGIE
 
@@ -28,13 +28,13 @@ Thanks to technology, we were able to adapt the creative idea to every channel. 
 
 The app also synchronizes with a YouTube video in HD thanks to a ultrasonic sound system revealing Adriana in the smartphone.
 
-![Wonderbra Decoder](/images/work/wonderbra-decoder/03.jpg)
+![Wonderbra Decoder](/images/work/wonderbra-decoder/03.webp)
 
-![Wonderbra Decoder](/images/work/wonderbra-decoder/04.jpg)
+![Wonderbra Decoder](/images/work/wonderbra-decoder/04.webp)
 
-![Wonderbra Decoder](/images/work/wonderbra-decoder/05.jpg)
+![Wonderbra Decoder](/images/work/wonderbra-decoder/05.webp)
 
-![Wonderbra Decoder](/images/work/wonderbra-decoder/11.jpg)
+![Wonderbra Decoder](/images/work/wonderbra-decoder/11.webp)
 
 ### REWARD
 

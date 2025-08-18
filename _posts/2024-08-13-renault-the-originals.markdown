@@ -4,7 +4,7 @@ title: "Renault The Originals"
 date: Aug 13th, 2024 12:00:00am
 categories: work
 comments: true
-preview: "images/work/renault-the-originals/01-800.jpg"
+preview: "images/work/renault-the-originals/01-800.webp"
 excerpt: "A groundbreaking virtual museum and e-commerce site showcasing 123 years of iconic Renault models using 3D photogrammetry."
 ---
 
@@ -14,7 +14,7 @@ The Originals Museum and [The Originals Store](https://theoriginals-store.renaul
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/01-800.jpg" class="uk-responsive-width">
+         <img src="/images/work/renault-the-originals/01-800.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -24,10 +24,10 @@ Adobe Commerce integrates the experiential and e-commerce platforms, enabling us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/02.jpg" class="uk-responsive-width">
+         <img src="/images/work/renault-the-originals/02.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/03.jpg" class="uk-responsive-width">
+         <img src="/images/work/renault-the-originals/03.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -37,7 +37,7 @@ Adobe Commerce integrates the experiential and e-commerce platforms, enabling us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/04.jpg" class="uk-responsive-width">
+         <img src="/images/work/renault-the-originals/04.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -45,10 +45,10 @@ Adobe Commerce integrates the experiential and e-commerce platforms, enabling us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/05.jpg" class="uk-responsive-width">
+         <img src="/images/work/renault-the-originals/05.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/06.jpg" class="uk-responsive-width">
+         <img src="/images/work/renault-the-originals/06.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -56,10 +56,10 @@ Adobe Commerce integrates the experiential and e-commerce platforms, enabling us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/07.jpg" class="uk-responsive-width">
+         <img src="/images/work/renault-the-originals/07.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/08.jpg" class="uk-responsive-width">
+         <img src="/images/work/renault-the-originals/08.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -67,6 +67,6 @@ Adobe Commerce integrates the experiential and e-commerce platforms, enabling us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/09.jpg" class="uk-responsive-width">
+         <img src="/images/work/renault-the-originals/09.webp" class="uk-responsive-width">
     </div>
 </div>

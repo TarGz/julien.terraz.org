@@ -3,7 +3,7 @@ layout: post
 title:  "Dior Eyes"
 date: 	June 5, 2015 at 6:02pm
 categories: work
-preview: "images/work/dior-eyes/01-800.jpg"
+preview: "images/work/dior-eyes/01-800.webp"
 excerpt: "We have helped Dior create the first VR headset that include 3D sound"
 ---
 <iframe src="https://www.youtube.com/embed/fPdxSPFXKlQ?si=917gOKIpobD58-vc" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
@@ -14,7 +14,7 @@ excerpt: "We have helped Dior create the first VR headset that include 3D sound"
 
 The best option for us was VR and a custom card board sounded like the best option. But as it was Dior we had to push it further they wanted a glowing Dior logo, we wanted to had 3D sound to the experience and we had only 4 month to ship 12 headset around the world.
 
-![Dior Eyes](/images/work/dior-eyes/01.jpg)
+![Dior Eyes](/images/work/dior-eyes/01.webp)
 
 ### HOW WE DID IT
 
@@ -29,30 +29,30 @@ This project was perfect for a Labs process how we do it usualy, we had 4 main p
 
 ### MECANICS R&D 
 
-![Dior Eyes](/images/work/dior-eyes/02.jpg)
-![Dior Eyes](/images/work/dior-eyes/03.jpg)
+![Dior Eyes](/images/work/dior-eyes/02.webp)
+![Dior Eyes](/images/work/dior-eyes/03.webp)
 
 ### ELECTRONICS R&D 
-![Dior Eyes](/images/work/dior-eyes/04.jpg)
-![Dior Eyes](/images/work/dior-eyes/05.jpg)
-![Dior Eyes](/images/work/dior-eyes/06.jpg)
+![Dior Eyes](/images/work/dior-eyes/04.webp)
+![Dior Eyes](/images/work/dior-eyes/05.webp)
+![Dior Eyes](/images/work/dior-eyes/06.webp)
 
 ### LENS R&D 
 
-![Dior Eyes](/images/work/dior-eyes/07.jpg)
-![Dior Eyes](/images/work/dior-eyes/08.jpg)
+![Dior Eyes](/images/work/dior-eyes/07.webp)
+![Dior Eyes](/images/work/dior-eyes/08.webp)
 
 ### RUSH
 
 After the R&D process you endup with a working prototype that feet all the requirements, but as usual your are a bit late on the planning, that were the rush start... and you know you are in trouble when your desk looks like this, it's a bit like having code not well organized.
 
-![Dior Eyes](/images/work/dior-eyes/09.jpg)
-![Dior Eyes](/images/work/dior-eyes/10.jpg)
+![Dior Eyes](/images/work/dior-eyes/09.webp)
+![Dior Eyes](/images/work/dior-eyes/10.webp)
 
 > Poulp mounting one headset
 
 
-![Dior Eyes](/images/work/dior-eyes/11.jpg)
+![Dior Eyes](/images/work/dior-eyes/11.webp)
 
 > After nigth and and day of final rush we are ready to ship
 
@@ -60,12 +60,12 @@ After the R&D process you endup with a working prototype that feet all the requi
 
 The first deployment of the Dior Eyes headset take place in Cannes during the film festival at Le Majestic Hotel in the Dior suite. Immediately people where amased and passionate by the experience and they were queing to try it... After this success the 12 headset were ready to roll and were deployed all around the world.
 
-![Dior Eyes](/images/work/dior-eyes/17.jpg)
-![Dior Eyes](/images/work/dior-eyes/12.jpg)
-![Dior Eyes](/images/work/dior-eyes/13.jpg)
-![Dior Eyes](/images/work/dior-eyes/14.jpg)
-![Dior Eyes](/images/work/dior-eyes/15.jpg)
-![Dior Eyes](/images/work/dior-eyes/16.jpg)
+![Dior Eyes](/images/work/dior-eyes/17.webp)
+![Dior Eyes](/images/work/dior-eyes/12.webp)
+![Dior Eyes](/images/work/dior-eyes/13.webp)
+![Dior Eyes](/images/work/dior-eyes/14.webp)
+![Dior Eyes](/images/work/dior-eyes/15.webp)
+![Dior Eyes](/images/work/dior-eyes/16.webp)
 
 
 ### CREDITS

@@ -3,17 +3,17 @@ layout: post
 title:  "T.O. by Lipton"
 date: 	Sept 24, 2015 at 5:31pm
 categories: work
-preview: "images/work/to/01-800.jpg"
+preview: "images/work/to/01-800.webp"
 excerpt: "Interactive generative Art tee-bar"
 ---
 <iframe src="https://www.youtube.com/embed/5X99YJBonvg?si=d2R8J6igfz8kW_T-" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 
 
-![T.O. By Lipton](/images/work/to/02.jpg)
-![T.O. By Lipton](/images/work/to/03.jpg)
-![T.O. By Lipton](/images/work/to/04.jpg)
-![T.O. By Lipton](/images/work/to/05.jpg)
-![T.O. By Lipton](/images/work/to/06.jpg)
+![T.O. By Lipton](/images/work/to/02.webp)
+![T.O. By Lipton](/images/work/to/03.webp)
+![T.O. By Lipton](/images/work/to/04.webp)
+![T.O. By Lipton](/images/work/to/05.webp)
+![T.O. By Lipton](/images/work/to/06.webp)
 
 ### CREDITS
 

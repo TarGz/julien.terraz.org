@@ -4,7 +4,7 @@ title:  "Lumière Sculptée"
 date: 	Jan 1th, 2021 12:00:00am
 categories: work
 comments: true
-preview: "images/work/lumeire-sculptee/01-800.jpg"
+preview: "images/work/lumeire-sculptee/01-800.webp"
 excerpt: "Lumière sculptée is a kinetic sculpture that transforms light into a living art piece."
 ---
 
@@ -18,7 +18,7 @@ Lumière sculptée is a kinetic sculpture that transforms light into a living ar
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/02.png" class="uk-responsive-width">
+         <img src="/images/work/lumeire-sculptee/02.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -30,26 +30,26 @@ We were asked by Invivo to create a digitally enhanced experience to welcome vis
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/03.jpg" class="uk-responsive-width">
+         <img src="/images/work/lumeire-sculptee/03.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/04.jpg" class="uk-responsive-width">
-    </div>
-</div>
-<div class="uk-grid" data-uk-grid-margin="">
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/05.jpg" class="uk-responsive-width">
-    </div>
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/06.jpg" class="uk-responsive-width">
+         <img src="/images/work/lumeire-sculptee/04.webp" class="uk-responsive-width">
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/07.jpg" class="uk-responsive-width">
+         <img src="/images/work/lumeire-sculptee/05.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/08.jpg" class="uk-responsive-width">
+         <img src="/images/work/lumeire-sculptee/06.webp" class="uk-responsive-width">
+    </div>
+</div>
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/lumeire-sculptee/07.webp" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/lumeire-sculptee/08.webp" class="uk-responsive-width">
     </div>
 </div>
 
@@ -62,31 +62,31 @@ To symbolise nature, we used colours produced by light dispersion. It enabled us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/09.jpg" class="uk-responsive-width">
+         <img src="/images/work/lumeire-sculptee/09.webp" class="uk-responsive-width">
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/10.jpg" class="uk-responsive-width">
+         <img src="/images/work/lumeire-sculptee/10.webp" class="uk-responsive-width">
     </div>
 </div>
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/11.jpg" class="uk-responsive-width">
+         <img src="/images/work/lumeire-sculptee/11.webp" class="uk-responsive-width">
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/12.jpg" class="uk-responsive-width">
+         <img src="/images/work/lumeire-sculptee/12.webp" class="uk-responsive-width">
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/13.jpg" class="uk-responsive-width">
+         <img src="/images/work/lumeire-sculptee/13.webp" class="uk-responsive-width">
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/02.png" class="uk-responsive-width">
+         <img src="/images/work/lumeire-sculptee/02.webp" class="uk-responsive-width">
     </div>
 </div>
 ## CREDITS

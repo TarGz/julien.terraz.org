@@ -3,7 +3,7 @@ layout: post
 title:  "Nissan Rooftopping"
 date: 	Jan 16th, 2014 6:54:00pm
 categories: work
-preview: "images/work/nissan-rooftopping/01-800.jpg"
+preview: "images/work/nissan-rooftopping/01-800.webp"
 excerpt: "The first interactive interactive exhibition that used iBeacon technologie"
 ---
 
@@ -14,14 +14,14 @@ The Rooftopping exhibition was staged on the roof of the iconic Publicis Drugsto
 
 We have created an interactive museum were you can interact with art piece througth an innovative image recognition and one of the first usage of iBeacons in Europe.
  
-![Nissan Rooftopping](/images/work/nissan-rooftopping/08.jpg)
-![Nissan Rooftopping](/images/work/nissan-rooftopping/02.jpg)
-![Nissan Rooftopping](/images/work/nissan-rooftopping/03.jpg)
-![Nissan Rooftopping](/images/work/nissan-rooftopping/04.jpg)
-![Nissan Rooftopping](/images/work/nissan-rooftopping/05.jpg)
-![Nissan Rooftopping](/images/work/nissan-rooftopping/06.jpg)
-![Nissan Rooftopping](/images/work/nissan-rooftopping/07.jpg)
-![Nissan Rooftopping](/images/work/nissan-rooftopping/09.jpg)
+![Nissan Rooftopping](/images/work/nissan-rooftopping/08.webp)
+![Nissan Rooftopping](/images/work/nissan-rooftopping/02.webp)
+![Nissan Rooftopping](/images/work/nissan-rooftopping/03.webp)
+![Nissan Rooftopping](/images/work/nissan-rooftopping/04.webp)
+![Nissan Rooftopping](/images/work/nissan-rooftopping/05.webp)
+![Nissan Rooftopping](/images/work/nissan-rooftopping/06.webp)
+![Nissan Rooftopping](/images/work/nissan-rooftopping/07.webp)
+![Nissan Rooftopping](/images/work/nissan-rooftopping/09.webp)
 
 
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Nissan Juke Stage 3D"
 date: 	Sep 21th, 2011 6:54:00pm
 categories: work
-preview: "images/work/nissan-juke-stage-3D/01-800.jpg"
+preview: "images/work/nissan-juke-stage-3D/01-800.webp"
 excerpt: "The first of it's kind commercial website that use Stage 3D"
 ---
 <iframe src="https://www.youtube.com/embed/Cemqz7cBTz0?si=LBqMLpGnq_G0DT3_" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen  class="uk-responsive-width"></iframe>
@@ -27,27 +27,27 @@ Even more innovative is that at any moment during the customization, the user ca
 
 
 <div class="uk-grid">
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10A.jpg"/></div>
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10B.jpg"/></div>
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10C.jpg"/></div>
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10D.jpg"/></div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10A.webp"/></div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10B.webp"/></div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10C.webp"/></div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10D.webp"/></div>
 </div>
 
-![Nissan Cubelist](/images/work/nissan-juke-stage-3D/03.jpg)
+![Nissan Cubelist](/images/work/nissan-juke-stage-3D/03.webp)
 
-![Nissan Cubelist](/images/work/nissan-juke-stage-3D/04.jpg)
+![Nissan Cubelist](/images/work/nissan-juke-stage-3D/04.webp)
 
-![Nissan Cubelist](/images/work/nissan-juke-stage-3D/05.jpg)
+![Nissan Cubelist](/images/work/nissan-juke-stage-3D/05.webp)
 
-![Nissan Cubelist](/images/work/nissan-juke-stage-3D/06.jpg)
+![Nissan Cubelist](/images/work/nissan-juke-stage-3D/06.webp)
 
-![Nissan Cubelist](/images/work/nissan-juke-stage-3D/07.jpg)
+![Nissan Cubelist](/images/work/nissan-juke-stage-3D/07.webp)
 
-![Nissan Cubelist](/images/work/nissan-juke-stage-3D/09.jpg)
+![Nissan Cubelist](/images/work/nissan-juke-stage-3D/09.webp)
 
-![Nissan Cubelist](/images/work/nissan-juke-stage-3D/11.jpg)
+![Nissan Cubelist](/images/work/nissan-juke-stage-3D/11.webp)
 
-![Nissan Cubelist](/images/work/nissan-juke-stage-3D/12.jpg)
+![Nissan Cubelist](/images/work/nissan-juke-stage-3D/12.webp)
 
 
 ### THE LAUNCH
