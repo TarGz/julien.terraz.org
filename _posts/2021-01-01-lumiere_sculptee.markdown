@@ -6,6 +6,8 @@ categories: work
 comments: true
 preview: "images/work/lumeire-sculptee/01-800.webp"
 excerpt: "Lumière sculptée is a kinetic sculpture that transforms light into a living art piece."
+industry: "Art & Culture"
+tech_tags: ["KINETIC SCULPTURE", "PRISMS"]
 ---
 
 

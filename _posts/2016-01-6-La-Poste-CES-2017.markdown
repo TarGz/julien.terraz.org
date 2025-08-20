@@ -6,6 +6,8 @@ categories: work
 comments: true
 preview: "images/work/laPoste-ces-2017/01-800.webp"
 excerpt: "An Immersive experience that give the spectator The ubiquity gift"
+industry: "Digital Services"
+tech_tags: ["IMMERSIVE", "AR"]
 ---
 
 

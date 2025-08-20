@@ -5,6 +5,8 @@ date: 	Aug 20th, 2013 6:44:00pm
 categories: work
 preview: "images/work/wonderbra-decoder/01-800.webp"
 excerpt: "Discover the secret of beauty of Adiana :-)"
+industry: "Fashion"
+tech_tags: ["AR", "APP"]
 ---
 
 <iframe src="https://www.youtube.com/embed/vvVF7vXnpNo?si=2atv_1sPeT7YV-Ho" width="1200" height="768" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>

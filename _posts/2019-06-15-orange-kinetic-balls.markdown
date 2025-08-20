@@ -6,6 +6,8 @@ categories: work
 comments: true
 preview: "images/work/orange-kinetic-balls/01-800.webp"
 excerpt: "An eye-catching architectural installation for Vivatech 2019 conveying movement and acceleration for Orange's startup booster program."
+industry: "Technology"
+tech_tags: ["INSTALLATION", "KINETIC"]
 ---
 
 <iframe width="1200" height="675" src="https://www.youtube.com/embed/uHOBAUx7jow?si=flyfG0y1TOJFBJ__?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="uk-responsive-width" allowfullscreen></iframe>

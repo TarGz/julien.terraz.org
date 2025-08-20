@@ -1,0 +1,416 @@
+/* 
+   MINIMAL.CSS - Ultra-minimalist CSS framework
+   Designed for portfolio sites inspired by OCKHAM design
+*/
+
+/* Reset */
+*,*::before,*::after{box-sizing:border-box}
+*{margin:0;padding:0}
+html,body{height:100%}
+img,picture,video,canvas,svg{display:block;max-width:100%}
+input,button,textarea,select{font:inherit}
+p,h1,h2,h3,h4,h5,h6{overflow-wrap:break-word}
+
+/* Base */
+html{
+  font-family:'Nunito Sans', sans-serif;
+  font-size:16px;
+  line-height:1.6;
+  color:#000;
+  background:#f5f5f5;
+}
+
+body{
+  min-height:100vh;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  text-rendering:optimizeLegibility;
+}
+
+/* Layout */
+.page{
+  max-width:1200px;
+  margin:0 auto;
+  padding:0 40px;
+  background:#fff;
+  min-height:100vh;
+}
+
+/* Header */
+.header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:40px 0 20px;
+}
+
+.logo{
+  font-size:18px;
+  font-weight:600;
+  color:#000;
+  text-decoration:none;
+  text-transform:uppercase;
+  letter-spacing:2px;
+}
+
+.logo:hover{color:#000;text-decoration:none}
+
+/* Navigation */
+.nav{display:flex;list-style:none;gap:40px;margin:0}
+.nav a{
+  font-size:14px;
+  font-weight:500;
+  color:#000;
+  text-decoration:none;
+  text-transform:uppercase;
+  letter-spacing:1px;
+  transition:opacity .2s ease;
+}
+.nav a:hover{opacity:.6;color:#000;text-decoration:none}
+
+/* Typography */
+.title{
+  font-size:clamp(5rem,15vw,10rem);
+  font-weight:500;
+  color:#000;
+  line-height:1.1;
+  letter-spacing:0;
+  margin:40px 0 40px;
+  text-transform:uppercase;
+  transform:scaleY(1.6);
+}
+
+.subtitle{
+  font-size:11px;
+  color:#666;
+  margin-bottom:20px;
+  text-transform:uppercase;
+  letter-spacing:2px;
+  line-height:1.6;
+}
+
+/* Grid */
+.grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:15px 25px;
+  margin:40px 0;
+}
+
+.grid.full{grid-template-columns:1fr}
+
+/* Cards */
+.card{
+  position:relative;
+  cursor:pointer;
+  text-decoration:none;
+  color:#000;
+  transition:transform .2s ease;
+  padding-bottom:20px;
+  border-bottom:1px solid #f0f0f0;
+  margin-bottom:10px;
+}
+
+.card:hover{
+  transform:translateY(-2px);
+  color:#000;
+  text-decoration:none;
+}
+
+.card img{
+  width:100%;
+  height:280px;
+  object-fit:cover;
+  transition:filter .2s ease;
+  border:1px solid #e0e0e0;
+}
+
+.card:hover img{filter:brightness(.98)}
+
+.card-info{
+  margin-top:15px;
+  position:relative;
+}
+
+.card-title{
+  font-size:16px;
+  font-weight:400;
+  color:#000;
+  margin-bottom:4px;
+  text-transform:uppercase;
+  letter-spacing:0.5px;
+  line-height:1.4;
+}
+
+.card-year{
+  font-size:12px;
+  color:#999;
+  font-weight:400;
+  margin:0;
+}
+
+/* Last Work - Full width with overlay text */
+.card.last-work{
+  width:100%;
+  margin-bottom:0;
+  padding-bottom:40px;
+}
+
+.card.last-work img{
+  height:700px;
+  margin-bottom:40px;
+  border:1px solid #e0e0e0;
+}
+
+.card.last-work .card-info{
+  position:absolute;
+  bottom:70px;
+  left:30px;
+  margin-top:0;
+}
+
+.card.last-work::after{
+  content:'';
+  display:block;
+  width:100%;
+  height:1px;
+  background:#e0e0e0;
+  margin-top:40px;
+}
+
+.card.last-work .card-title{
+  color:#fff;
+  font-size:24px;
+  font-weight:300;
+  margin-bottom:8px;
+  transform:scaleY(1.6);
+}
+
+.card.last-work .card-year{
+  color:#fff;
+  font-size:14px;
+}
+
+/* Half width cards - text left, image stuck right */
+.half-width-grid{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:0;
+  margin:0px 0;
+}
+
+.card.half-width{
+  width:100%;
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  align-items:flex-start;
+  margin-bottom:0;
+  padding:20px 0;
+  border-bottom:1px solid #e0e0e0;
+  position:relative;
+  overflow:hidden;
+  gap:40px;
+}
+
+.card.half-width .card-info{
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  padding-top:0;
+  padding-right:0;
+}
+
+.card.half-width .card-title{
+  font-size:36px;
+  font-weight:300;
+  font-stretch:condensed;
+  margin-bottom:8px;
+  text-transform:uppercase;
+  letter-spacing:-0.02em;
+  line-height:0.9;
+  color:#000;
+  transform:scaleY(1.6);
+}
+
+.card.half-width .card-year{
+  font-size:18px;
+  color:#000;
+  margin-bottom:20px;
+  font-weight:400;
+}
+
+.card.half-width img{
+  width:100%;
+  height:320px;
+  object-fit:cover;
+  border:1px solid #e0e0e0;
+}
+
+.card.half-width .card-tags{
+  position:absolute;
+  bottom:20px;
+  left:0;
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+}
+
+.grid .card .card-tags{
+  position:absolute;
+  bottom:20px;
+  right:15px;
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  justify-content:flex-end;
+}
+
+.tag{
+  font-size:10px;
+  text-transform:uppercase;
+  letter-spacing:1px;
+  padding:4px 8px;
+  border-radius:12px;
+  font-weight:500;
+  border:none;
+}
+
+.tag.industry{
+  color:#666;
+  background:#f8f8f8;
+}
+
+.tag.tech{
+  color:#666;
+  background:#f8f8f8;
+}
+
+/* Large cards - legacy support */
+.card.large{grid-column:1/-1}
+.card.large img{height:400px}
+
+/* Contact section */
+.contact{
+  margin-top:120px;
+  margin-bottom:80px;
+}
+
+.contact-title{
+  font-size:clamp(3rem,10vw,6rem);
+  font-weight:900;
+  color:#000;
+  line-height:.9;
+  letter-spacing:-.02em;
+  margin-bottom:40px;
+  text-transform:uppercase;
+}
+
+.contact-info{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  flex-wrap:wrap;
+  gap:40px;
+}
+
+.contact-details{flex:1}
+
+.contact-details p{
+  font-size:14px;
+  color:#666;
+  line-height:1.8;
+  margin:0 0 5px 0;
+}
+
+.contact-details a{
+  color:#000;
+  text-decoration:none;
+  border-bottom:1px solid #000;
+}
+
+.contact-details a:hover{opacity:.6;color:#000}
+
+.contact-cta{
+  flex-shrink:0;
+  text-align:right;
+}
+
+.contact-cta p{
+  font-size:16px;
+  color:#000;
+  font-weight:500;
+  text-transform:uppercase;
+  letter-spacing:1px;
+}
+
+/* Footer */
+.footer{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:40px 0;
+  border-top:1px solid #eee;
+  margin-top:80px;
+}
+
+.footer-logo{
+  font-size:16px;
+  font-weight:600;
+  color:#000;
+  text-decoration:none;
+  text-transform:uppercase;
+  letter-spacing:2px;
+}
+
+.footer-nav{
+  display:flex;
+  list-style:none;
+  gap:30px;
+  margin:0;
+}
+
+.footer-nav a{
+  font-size:12px;
+  color:#666;
+  text-decoration:none;
+  text-transform:uppercase;
+  letter-spacing:1px;
+}
+
+.footer-nav a:hover{color:#000}
+
+/* Utilities */
+.hidden{display:none}
+.text-center{text-align:center}
+.text-right{text-align:right}
+.mb-0{margin-bottom:0}
+.mt-0{margin-top:0}
+
+/* Responsive */
+@media(max-width:768px){
+  .page{padding:0 20px}
+  .header{flex-direction:column;align-items:flex-start;gap:20px;padding:20px 0}
+  .nav{gap:20px}
+  .grid{grid-template-columns:1fr;gap:30px;margin:40px 0}
+  .card.large{grid-column:1}
+  
+  /* Half-width cards responsive */
+  .card.half-width{
+    grid-template-columns:1fr;
+    padding:40px 20px;
+    gap:20px;
+  }
+  
+  .card.half-width .card-title{
+    font-size:36px;
+  }
+  
+  .card.half-width img{
+    height:240px;
+    justify-self:stretch;
+  }
+  
+  .contact-info{flex-direction:column;gap:20px}
+  .contact-cta{text-align:left}
+  .footer{flex-direction:column;align-items:flex-start;gap:20px}
+}

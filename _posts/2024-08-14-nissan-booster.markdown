@@ -6,6 +6,8 @@ categories: work
 comments: true
 preview: "images/work/nissan-booster/01-800.webp"
 excerpt: "Nissan Booster is a Web 3 project that integrates NFTs and fan engagement for Nissan's Formula E team."
+industry: "Automotive"
+tech_tags: ["GAMING", "WEB3"]
 ---
 
 <iframe width="1200" height="675" src="https://www.youtube.com/embed/NS-aJBZ5zuQ?si=Qh9W_RHHGsNc8EI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="uk-responsive-width" allowfullscreen></iframe>

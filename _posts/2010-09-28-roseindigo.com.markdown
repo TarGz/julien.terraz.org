@@ -6,6 +6,8 @@ categories: work
 comments: true
 preview: "images/work/roseindigo/01-800.webp"
 excerpt: "A used clothes e-commerce website built with my wife"
+industry: "Fashion"
+tech_tags: ["RESPONSIVE", "WEBDESIGN"]
 ---
 
 ![Template image](/images/work/roseindigo/02b.webp)

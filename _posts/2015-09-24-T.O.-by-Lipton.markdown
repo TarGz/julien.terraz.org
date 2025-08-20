@@ -5,6 +5,8 @@ date: 	Sept 24, 2015 at 5:31pm
 categories: work
 preview: "images/work/to/01-800.webp"
 excerpt: "Interactive generative Art tee-bar"
+industry: "Food & Beverage"
+tech_tags: ["GENERATIVE ART", "INTERACTIVE"]
 ---
 <iframe src="https://www.youtube.com/embed/5X99YJBonvg?si=d2R8J6igfz8kW_T-" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 

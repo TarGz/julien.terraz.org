@@ -6,6 +6,8 @@ categories: work
 comments: true
 preview: "images/work/dior-eyes-2/01-800.webp"
 excerpt: "Dior Eyes, the most ergonomic virtual reality headset in the world."
+industry: "Fashion"
+tech_tags: ["VR", "PRODUCT DESIGN"]
 ---
 
 

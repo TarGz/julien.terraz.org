@@ -5,6 +5,8 @@ date: 	Jan 16th, 2014 6:54:00pm
 categories: work
 preview: "images/work/nissan-rooftopping/01-800.webp"
 excerpt: "The first interactive interactive exhibition that used iBeacon technologie"
+industry: "Automotive"
+tech_tags: ["IBEACON", "BLUETOOTH"]
 ---
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/HQUjWeMAvoY?rel=0" frameborder="0" allowfullscreen class="uk-responsive-width"></iframe>

@@ -6,6 +6,8 @@ categories: work
 comments: true
 preview: "images/work/renault-the-originals/01-800.webp"
 excerpt: "A groundbreaking virtual museum and e-commerce site showcasing 123 years of iconic Renault models using 3D photogrammetry."
+industry: "Automotive"
+tech_tags: ["PHOTOGRAMMETRY", "WEBGL"]
 ---
 
 ## INTRODUCTION

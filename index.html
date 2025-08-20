@@ -1,22 +1,75 @@
 ---
 layout: default
 ---
-<div class="uk-grid" data-uk-grid-margin="">
-{% for post in site.categories.work %}
-<div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1 uk-row-first">
-  <div class="uk-thumbnail uk-overlay-hover" data-uk-modal="{target:'#modal-1'}">
-    <figure class="uk-overlay">
-    {% if forloop.index <= 2 %}
-      {% include responsive-image.html src=post.preview alt=post.title width="800" height="533" priority=true %}
-    {% else %}
-      {% include responsive-image.html src=post.preview alt=post.title width="800" height="533" %}
-    {% endif %}                                          
-    <figcaption class="uk-overlay-panel uk-overlay-icon uk-overlay-background uk-overlay-fade"></figcaption>                                            
-    <a class="uk-position-cover" href={{ post.url }}></a>
-    </figure>
-    <div class="uk-thumbnail-caption">{{ post.title }}</div>
-  </div>
+<div class="projects-header">
+  <h1 class="title">PROJECTS</h1>
+  <p class="subtitle">SELECTED WORK</p>
 </div>
+
+<!-- First project: Last Work (full width with overlay) -->
+{% assign first_post = site.categories.work | first %}
+<a href="{{ first_post.url }}" class="card last-work">
+  {% include responsive-image.html src=first_post.preview alt=first_post.title width="800" height="533" priority=true %}
+  <div class="card-info">
+    <h3 class="card-title">{{ first_post.title }}</h3>
+    <p class="card-year">{{ first_post.date | date: "%Y" }}</p>
+  </div>
+</a>
+
+<!-- Next two projects: Half viewport width each -->
+<div class="half-width-grid">
+{% for post in site.categories.work offset:1 limit:2 %}
+<a href="{{ post.url }}" class="card half-width">
+  <div class="card-info">
+    <h3 class="card-title">{{ post.title }}</h3>
+    <p class="card-year">{{ post.date | date: "%Y" }}</p>
+  </div>
+  {% include responsive-image.html src=post.preview alt=post.title width="800" height="533" %}
+  <div class="card-tags">
+    <span class="tag industry">{{ post.industry }}</span>
+    {% for tech in post.tech_tags %}
+    <span class="tag tech">{{ tech }}</span>
+    {% endfor %}
+  </div>
+</a>
 {% endfor %}
+</div>
+
+<!-- Remaining projects: Two per row -->
+<div class="grid">
+  {% for post in site.categories.work offset:3 %}
+    <a href="{{ post.url }}" class="card">
+      {% include responsive-image.html src=post.preview alt=post.title width="800" height="533" %}
+      <div class="card-info">
+        <h3 class="card-title">{{ post.title }}</h3>
+        <p class="card-year">{{ post.date | date: "%Y" }}</p>
+      </div>
+      {% if post.industry or post.tech_tags %}
+      <div class="card-tags">
+        {% if post.industry %}<span class="tag industry">{{ post.industry }}</span>{% endif %}
+        {% for tech in post.tech_tags %}
+        <span class="tag tech">{{ tech }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </a>
+  {% endfor %}
+</div>
+
+<div class="contact" id="contact">
+  <h2 class="contact-title">LET'S TALK</h2>
+  <div class="contact-info">
+    <div class="contact-details">
+      <p>Julien TERRAZ</p>
+      <p>Creative Director at Razorfish</p>
+      <p>Paris, France</p>
+      <p><a href="mailto:julien@terraz.org">julien@terraz.org</a></p>
+    </div>
+    <div class="contact-cta">
+      <p>AND CREATE</p>
+      <p>SOME STUFF</p>
+      <p>TOGETHER</p>
+    </div>
+  </div>
 </div>
 

@@ -5,6 +5,8 @@ date: 	June 5, 2015 at 6:02pm
 categories: work
 preview: "images/work/dior-eyes/01-800.webp"
 excerpt: "We have helped Dior create the first VR headset that include 3D sound"
+industry: "Fashion"
+tech_tags: ["VR", "PROTOTYPE"]
 ---
 <iframe src="https://www.youtube.com/embed/fPdxSPFXKlQ?si=917gOKIpobD58-vc" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="uk-responsive-width"></iframe>
 

@@ -5,6 +5,8 @@ date: 	Aug 20th, 2012 6:54:00pm
 categories: work
 preview: "images/work/nissan-juke-power-up/01-800.webp"
 excerpt: "The first commercial mobile game website that use Flash for mobile"
+industry: "Automotive"
+tech_tags: ["FLASH", "APP"]
 ---
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/0J5lBVEw05g?si=wYvUy1xj0SqVaUIf" frameborder="0" allowfullscreen class="uk-responsive-width"></iframe>

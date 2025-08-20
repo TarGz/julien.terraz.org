@@ -6,6 +6,8 @@ categories: work
 comments: true
 preview: "images/work/nismo-designer/01-800.webp"
 excerpt: "Nismo's Designer tool allows users to create their own Nissan Formula E car livery and share custom designs."
+industry: "Automotive"
+tech_tags: ["CONFIGURATOR", "WEBGL"]
 ---
 
 <iframe width="1200" height="675" src="https://www.youtube.com/embed/msbHb5RnbaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="uk-responsive-width" allowfullscreen></iframe>
@@ -16,7 +18,7 @@ Nismo's Designer tool allows users to create their own Nissan Formula E car live
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/01-800.webp" class="uk-responsive-width">
+         <img src="/images/work/nismo-designer/10.webp" class="uk-responsive-width">
     </div>
 </div>
 

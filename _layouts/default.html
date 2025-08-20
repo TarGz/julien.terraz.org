@@ -11,20 +11,16 @@
 <html>
   {% include head.html %}
   <body>
-    <header class="site-header">
-      <div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
-        <h1><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-
-
-        <p class="uk-text-muted">{{ site.description }} <span class="uk-text-muted">Also pen plotter artist known as <a href="https://targz.fr">targz</a>.</span></p>
-        <hr/>
+    <div class="page">
+      <header class="header">
+        <a class="logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
         <nav>
           {% include nav.html %}
         </nav>
-      </div>
-    </header>
-    <div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
+      </header>
+      
       {{ content }}
+      
       {% include footer.html %}
     </div>
     {% include analytics.html %}

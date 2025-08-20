@@ -5,6 +5,8 @@ date: 	Sep 21th, 2011 6:54:00pm
 categories: work
 preview: "images/work/nissan-juke-stage-3D/01-800.webp"
 excerpt: "The first of it's kind commercial website that use Stage 3D"
+industry: "Automotive"
+tech_tags: ["FLASH", "3D"]
 ---
 <iframe src="https://www.youtube.com/embed/Cemqz7cBTz0?si=LBqMLpGnq_G0DT3_" width="1200" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen  class="uk-responsive-width"></iframe>
 

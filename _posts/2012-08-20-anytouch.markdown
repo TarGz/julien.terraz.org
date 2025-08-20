@@ -5,6 +5,8 @@ date: 	Aug 20th, 2012 6:54:00pm
 categories: work
 preview: "images/work/anytouch/01-800.webp"
 excerpt: "We made any objects interactive using Ayotle technologie"
+industry: "Automotive"
+tech_tags: ["TACTILE", "KINECT"]
 ---
 
 ### ANYTOUCH IS A PROTOTYPE THAT CAN MAKE TACTILE ANY OBJECTS.
