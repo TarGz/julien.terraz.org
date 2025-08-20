@@ -1,0 +1,35 @@
+{% comment %}
+  Responsive Image Include
+  Usage: {% include responsive-image.html src="images/work/project/01-800.webp" alt="Alt text" width="800" height="600" class="additional-classes" priority=true %}
+  
+  Parameters:
+  - src: path to the desktop image (required)
+  - alt: alt text (required)  
+  - width: image width for aspect ratio (required)
+  - height: image height for aspect ratio (required)
+  - class: additional CSS classes (optional)
+  - priority: if true, loads eagerly with fetchpriority="high" (optional)
+{% endcomment %}
+
+{% assign desktop_src = include.src %}
+{% assign mobile_src = desktop_src | replace: '.webp', '-mobile.webp' %}
+{% assign tablet_src = desktop_src | replace: '.webp', '-tablet.webp' %}
+
+{% assign loading_attr = "lazy" %}
+{% assign fetchpriority_attr = "" %}
+{% if include.priority %}
+  {% assign loading_attr = "eager" %}
+  {% assign fetchpriority_attr = 'fetchpriority="high"' %}
+{% endif %}
+
+<picture>
+  <source media="(max-width: 576px)" srcset="{{ mobile_src | relative_url }}">
+  <source media="(max-width: 992px)" srcset="{{ tablet_src | relative_url }}">
+  <img src="{{ desktop_src | relative_url }}"
+       alt="{{ include.alt }}"
+       width="{{ include.width }}"
+       height="{{ include.height }}"
+       loading="{{ loading_attr }}"
+       {% if include.priority %}{{ fetchpriority_attr }}{% endif %}
+       {% if include.class %}class="{{ include.class }}"{% endif %}>
+</picture>
