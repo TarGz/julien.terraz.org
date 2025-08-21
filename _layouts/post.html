@@ -1,14 +1,22 @@
 ---
-layout: default-post
+layout: default
 ---
 
-<article>
-  <h1>{{ page.title }}</h1>
-  <p class="uk-article-meta"> {{ page.date | date: "%B %e, %Y" }}</p>
-  <p class="uk-article-lead"> {{ page.excerpt }} </p>
-  <hr class="uk-article-divider">
-  <div class="uk-text-large">
-    {{ content }}
+<article class="post">
+  <div class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%B %e, %Y" }}</p>
+    {% if page.industry or page.tech_tags %}
+    <div class="post-tags">
+      {% if page.industry %}<span class="tag industry">{{ page.industry }}</span>{% endif %}
+      {% for tech in page.tech_tags %}
+      <span class="tag tech">{{ tech }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
   </div>
   
+  <div class="post-content">
+    {{ content }}
+  </div>
 </article>

@@ -35,6 +35,15 @@ The interactive designer allows Formula E fans to customize their ideal Nissan l
     </div>
 </div>
 
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/nismo-designer/06.webp" class="uk-responsive-width">
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         <img src="/images/work/nismo-designer/07.webp" class="uk-responsive-width">
+    </div>
+</div>
+
 ## COMMUNITY SHARING
 
 Users can share their creations and browse designs from other fans, building a community around Formula E customization.
@@ -45,6 +54,11 @@ Users can share their creations and browse designs from other fans, building a c
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
          <img src="/images/work/nismo-designer/05.webp" class="uk-responsive-width">
+    </div>
+</div>
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
+         <img src="/images/work/nismo-designer/08.webp" class="uk-responsive-width">
     </div>
 </div>
 
