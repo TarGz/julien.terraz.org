@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg4647" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" version="1.1" viewBox="0 0 24 24">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #333;
+      }
+    </style>
+  </defs>
+  <g id="layer1">
+    <path id="rect5234" class="st0" d="M4,0C1.78,0,0,1.78,0,4v16C0,22.22,1.78,24,4,24h16c2.22,0,4-1.78,4-4V4C24,1.78,22.22,0,20,0H4ZM18.91,5.72c.52.04.68.54.55,1.13l-2.34,10.83c-.15.7-.68.79-1.32.33l-3.3-2.41-1.81,1.75c-.28.27-.81.35-.97-.13l-1.36-4.17-3.22-1.02c-1.24-.39-.35-.95.07-1.11l13.05-5.07c.26-.1.48-.14.65-.12h0ZM16.59,7.97c-.08.02-.17.05-.25.1l-7.37,4.67s-.09.02-.05.16l1.19,3.66.24-2.48s0-.08.06-.13l6.22-5.58c.34-.31.19-.44-.05-.39h0Z"/>
+  </g>
+</svg>

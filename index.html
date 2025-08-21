@@ -44,9 +44,8 @@ layout: default
         <h3 class="card-title">{{ post.title }}</h3>
         <p class="card-year">{{ post.date | date: "%Y" }}</p>
       </div>
-      {% if post.industry or post.tech_tags %}
+      {% if post.tech_tags %}
       <div class="card-tags">
-        {% if post.industry %}<span class="tag industry">{{ post.industry }}</span>{% endif %}
         {% for tech in post.tech_tags %}
         <span class="tag tech">{{ tech }}</span>
         {% endfor %}

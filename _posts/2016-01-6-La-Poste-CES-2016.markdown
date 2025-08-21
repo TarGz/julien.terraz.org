@@ -51,11 +51,6 @@ The post production was so complexe that Figthing Fish and DVmobile had to find 
 ## DEVELOPMENT
 Synchronizing all the elements was challenging in a context were we couldn't rely on wifi as the signal are usualy jammed in events like CES. We had to find a realiable solution and finaly used audio cable to synchronise iPad and videos. A taillor made sound synth have been developped to echanche ID between devices. Some object like the postal box needed a custom made connector to detected the opening and the closing of the box, we have developped a dedicated Arduino shield to do so. We had to develope the prototype in our Paris office using "small" 4K screen to ensure that everything was working perfectly.
 
-<div class="uk-grid">
-<div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1"><iframe src="https://vine.co/v/iaOQJpEYD9X/embed/simple" width="480" height="480" frameborder="0"></iframe></div>
-<div class="uk-width-large-1-2 uk-width-medium-1-1 uk-width-small-1-1"><iframe src="https://vine.co/v/i7UehFYedvh/embed/simple" width="480" height="480" frameborder="0"></iframe></div>
-
-</div>
 
 
 
