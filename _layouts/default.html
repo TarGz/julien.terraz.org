@@ -13,7 +13,14 @@
   <body>
     <div class="page">
       <header class="header">
-        <a class="logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <div class="logo-content">
+          <h1 class="hero-name"><a href="{{ site.baseurl }}/">JULIEN TERRAZ</a></h1>
+          {% if page.url == '/' %}
+          <span class="hero-role">Creative Director at Razorfish</span>
+          <span class="hero-philosophy">playing with technology in pursuit of creativity.</span>
+          <span class="hero-philosophy">Also pen plotter artist known as <em><a href="https://targz.fr" target="_blank" rel="noopener">targz</a></em>.</span>
+          {% endif %}
+        </div>
         <nav>
           {% include nav.html %}
         </nav>

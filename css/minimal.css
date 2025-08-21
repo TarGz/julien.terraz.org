@@ -51,8 +51,10 @@ body{
 .header{
   display:flex;
   justify-content:space-between;
-  align-items:center;
+  align-items:flex-start;
   padding:40px 0 20px;
+  position:relative;
+  z-index:100;
 }
 
 .logo{
@@ -299,6 +301,113 @@ body{
 /* Large cards - legacy support */
 .card.large{grid-column:1/-1}
 .card.large img{height:400px}
+
+/* Logo content in header */
+.logo-content{
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  position:relative;
+}
+
+.logo-content span,
+.logo-content h1{
+  display:block;
+  font-family:'Nunito Sans', sans-serif;
+  font-weight:300;
+  color:#333;
+  line-height:1.1;
+  margin:2px 0;
+}
+
+.hero-name{
+  font-size:clamp(18px,3.5vw,32px);
+  font-weight:600;
+  margin-left:0;
+  color:#000;
+  margin-bottom:4px;
+}
+
+.hero-name a{
+  color:inherit;
+  text-decoration:none;
+  transition:opacity 0.2s ease;
+}
+
+.hero-name a:hover{
+  opacity:0.7;
+}
+
+.hero-role{
+  font-size:clamp(11px,2.2vw,20px);
+  font-weight:400;
+  margin-left:30px;
+  color:#000;
+}
+
+.hero-philosophy{
+  font-size:clamp(7px,1.4vw,12px);
+  margin-left:60px;
+  color:#666;
+  font-style:italic;
+}
+
+.hero-pursuit{
+  font-size:clamp(7px,1.4vw,12px);
+  margin-left:90px;
+  color:#666;
+  font-style:italic;
+}
+
+.hero-also{
+  font-size:clamp(7px,1.4vw,12px);
+  margin-left:50px;
+  margin-top:8px;
+  color:#999;
+}
+
+.hero-philosophy em,
+.hero-alias em{
+  font-style:normal;
+  font-weight:600;
+  color:#000;
+  text-transform:uppercase;
+  letter-spacing:0.5px;
+}
+
+.hero-philosophy em a{
+  color:inherit;
+  text-decoration:none;
+  transition:opacity 0.2s ease;
+  text-transform:none;
+  position:relative;
+  z-index:10;
+}
+
+.hero-philosophy em a:hover{
+  opacity:0.7;
+}
+
+@media (max-width:768px){
+  .hero-philosophy,
+  .hero-also{
+    margin-left:10px;
+  }
+  
+  .hero-role{
+    margin-left:15px;
+  }
+  
+  .logo-content{
+    align-items:center;
+    text-align:center;
+  }
+  
+  .logo-content span,
+  .logo-content h1{
+    margin:1px 0;
+  }
+}
 
 /* Contact section */
 .contact{
