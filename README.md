@@ -1,10 +1,21 @@
 # Julien Terraz Portfolio
 
-Personal portfolio website of Julien Terraz - Creative Director at Razorfish playing with technology in pursuit of creativity.
+**JULIEN TERRAZ**  
+Creative Director at Razorfish playing with technology in pursuit of creativity.  
+Also pen plotter artist known as [targz](https://targz.fr).
 
 ## About
 
-This is the repository for [julien.terraz.org](https://julien.terraz.org/), built using [Jekyll](https://jekyllrb.com/) and based on [Jekyll Now](https://github.com/barryclark/jekyll-now).
+This is the repository for [julien.terraz.org](https://julien.terraz.org/), a minimalist portfolio website built with Jekyll featuring a custom design inspired by OCKHAM aesthetics.
+
+## Features
+
+- **Minimalist Design**: Clean, typography-focused layout with Space Grotesk font
+- **Responsive Images**: Automatic WebP conversion and responsive sizing
+- **Mobile Optimized**: Centered mobile layout with enhanced readability
+- **Custom 404**: Fun meme-based error page ("This is Fine")
+- **Social Integration**: LinkedIn, Instagram, and Telegram links
+- **Performance**: Streamlined codebase with only essential files
 
 ## Prerequisites
 
@@ -45,38 +56,55 @@ Run on default ports:
 bundle exec jekyll serve
 ```
 
-**Note:** If you're running multiple Jekyll instances, use different ports to avoid conflicts:
-- Instance 1: `bundle exec jekyll serve --port 4001 --livereload` (uses default livereload port 35729)
-- Instance 2: `./startlocaldev.sh` (uses port 4002 and livereload port 35730)
-
 ## Project Structure
 
-- `_posts/` - Blog posts and portfolio items
-- `_drafts/` - Draft posts
-- `_layouts/` - Page templates
-- `_includes/` - Reusable components
-- `_sass/` - SCSS stylesheets
-- `images/` - Image assets for work and leisure projects
-- `downloads/` - Downloadable files
-- `work.html` - Work portfolio page
-- `photos.html` - Photo gallery page
+```
+├── _posts/                 # Portfolio work posts
+├── _drafts/               # Draft posts  
+├── _layouts/              # Page templates
+├── _includes/             # Reusable components
+├── _plugins/              # Custom plugins (responsive images)
+├── css/                   # Stylesheets (minimal.css only)
+├── images/                # Image assets
+│   ├── work/             # Portfolio project images (WebP)
+│   └── icons/            # Social media icons (white SVG)
+├── downloads/            # Downloadable files
+├── 404.md               # Custom error page
+└── index.html           # Homepage
+```
 
-## Dependencies
+## Key Components
 
-Main gems used:
-- jekyll ~3.9
-- jekyll-sitemap
-- jekyll-feed
-- kramdown-parser-gfm
-- eventmachine 1.2.7
+### Design System
+- **Typography**: Space Grotesk from Google Fonts
+- **Layout**: CSS Grid and Flexbox for responsive design  
+- **Color**: Minimalist black/white/gray palette
+- **Mobile**: Centered header with larger fonts
+
+### Responsive Images
+- Automatic WebP conversion via `_plugins/responsive_images.rb`
+- Multiple sizes: mobile, tablet, desktop
+- Lazy loading with `_includes/responsive-image.html`
+
+### Navigation
+- **WORK**: Homepage portfolio (default)
+- **TARGZ**: Links to external site (targz.fr)
+- **CONTACT**: Scrolls to footer contact section
 
 ## Configuration
 
-Site configuration is managed in `_config.yml`:
-- Site title and description
-- Social media links (Instagram, LinkedIn)
+Key settings in `_config.yml`:
+- Site metadata and URLs
+- Social media links (LinkedIn, Instagram, Telegram)
+- Google Analytics tracking
 - Disqus comments
-- Google Analytics
+
+## Dependencies
+
+- `jekyll` ~3.9
+- `jekyll-sitemap` - XML sitemap generation
+- `jekyll-feed` - RSS feed
+- `kramdown-parser-gfm` - GitHub Flavored Markdown
 
 ## License
 
