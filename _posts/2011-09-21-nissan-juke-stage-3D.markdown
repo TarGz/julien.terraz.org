@@ -29,10 +29,10 @@ Even more innovative is that at any moment during the customization, the user ca
 
 
 <div class="uk-grid">
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10A.webp"/></div>
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10B.webp"/></div>
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10C.webp"/></div>
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1"><img src="/images/work/nissan-juke-stage-3D/10D.webp"/></div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">{% include responsive-image.html src="images/work/nissan-juke-stage-3D/10A.webp" alt="Nissan Juke Stage 3D customization" width="800" height="533" %}</div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">{% include responsive-image.html src="images/work/nissan-juke-stage-3D/10B.webp" alt="Nissan Juke Stage 3D exterior view" width="800" height="533" %}</div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">{% include responsive-image.html src="images/work/nissan-juke-stage-3D/10C.webp" alt="Nissan Juke Stage 3D interior view" width="800" height="533" %}</div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">{% include responsive-image.html src="images/work/nissan-juke-stage-3D/10D.webp" alt="Nissan Juke Stage 3D driving experience" width="800" height="533" %}</div>
 </div>
 
 ![Nissan Cubelist](/images/work/nissan-juke-stage-3D/03.webp)

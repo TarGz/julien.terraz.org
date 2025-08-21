@@ -22,7 +22,7 @@ For the 3rd time, La Poste revealed their innovative approach at the 2017 Las Ve
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/laPoste-ces-2017/mytho.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/laPoste-ces-2017/mytho.webp" alt="La Poste CES 2017 immersive experience" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
     <video loop="" autoplay="">
@@ -30,24 +30,24 @@ For the 3rd time, La Poste revealed their innovative approach at the 2017 Las Ve
     </video>
     </div>
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/laPoste-ces-2017/01.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/laPoste-ces-2017/01.webp" alt="La Poste CES 2017 booth design" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/laPoste-ces-2017/02.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/laPoste-ces-2017/02.webp" alt="La Poste CES 2017 interactive displays" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/laPoste-ces-2017/03.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/laPoste-ces-2017/03.webp" alt="La Poste CES 2017 technology showcase" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/laPoste-ces-2017/05A.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/laPoste-ces-2017/05A.webp" alt="La Poste CES 2017 connected services demo" width="800" height="533" %}
     </div>
 
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/laPoste-ces-2017/05B.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/laPoste-ces-2017/05B.webp" alt="La Poste CES 2017 augmented reality" width="800" height="533" %}
     </div>
 
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/laPoste-ces-2017/04.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/laPoste-ces-2017/04.webp" alt="La Poste CES 2017 visitor experience" width="800" height="533" %}
     </div>
 </div>
 

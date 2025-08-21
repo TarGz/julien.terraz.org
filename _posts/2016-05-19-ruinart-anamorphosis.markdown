@@ -18,25 +18,25 @@ tech_tags: ["ANAMORPHOSIS", "PROJECTION"]
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/ruinart-anamorphosis/ruinart8.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/ruinart-anamorphosis/ruinart8.webp" alt="Ruinart Anamorphosis installation" width="800" height="533" %}
     </div>
 </div>
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/ruinart-anamorphosis/ruinart2.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/ruinart-anamorphosis/ruinart2.webp" alt="Ruinart Anamorphosis close-up detail" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/ruinart-anamorphosis/ruinart3.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/ruinart-anamorphosis/ruinart3.webp" alt="Ruinart Anamorphosis projection setup" width="800" height="533" %}
     </div>
 </div>
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/ruinart-anamorphosis/ruinart4.gif" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/ruinart-anamorphosis/ruinart4.gif" alt="Ruinart Anamorphosis animation" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/ruinart-anamorphosis/ruinart7.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/ruinart-anamorphosis/ruinart7.webp" alt="Ruinart Anamorphosis artistic collaboration" width="800" height="533" %}
     </div>
 </div>
 

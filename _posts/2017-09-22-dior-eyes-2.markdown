@@ -21,33 +21,33 @@ tech_tags: ["VR", "PRODUCT DESIGN"]
 <div class="uk-grid" data-uk-grid-margin="">
 
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/10.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/dior-eyes-2/10.webp" alt="Dior Eyes 2 VR headset design" width="800" height="533" %}
     </div>
 
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/03.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/dior-eyes-2/03.webp" alt="Dior Eyes 2 design details" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/04.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/dior-eyes-2/04.webp" alt="Dior Eyes 2 technical specifications" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/05.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/dior-eyes-2/05.webp" alt="Dior Eyes 2 user experience" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/06.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/dior-eyes-2/06.webp" alt="Dior Eyes 2 ergonomic design" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/08.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/dior-eyes-2/08.webp" alt="Dior Eyes 2 virtual reality experience" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/09.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/dior-eyes-2/09.webp" alt="Dior Eyes 2 packaging" width="800" height="533" %}
     </div>
 
         <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/11.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/dior-eyes-2/11.webp" alt="Dior Eyes 2 showcase" width="800" height="533" %}
     </div>
         <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/dior-eyes-2/12.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/dior-eyes-2/12.webp" alt="Dior Eyes 2 fashion integration" width="800" height="533" %}
     </div>
 </div>
 

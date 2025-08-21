@@ -20,7 +20,7 @@ Lumière sculptée is a kinetic sculpture that transforms light into a living ar
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/02.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/02.webp" alt="Lumière Sculptée kinetic sculpture" width="800" height="533" %}
     </div>
 </div>
 
@@ -32,26 +32,26 @@ We were asked by Invivo to create a digitally enhanced experience to welcome vis
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/03.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/03.webp" alt="Lumière Sculptée prism details" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/04.webp" class="uk-responsive-width">
-    </div>
-</div>
-<div class="uk-grid" data-uk-grid-margin="">
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/05.webp" class="uk-responsive-width">
-    </div>
-    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/06.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/04.webp" alt="Lumière Sculptée light dispersion" width="800" height="533" %}
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/07.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/05.webp" alt="Lumière Sculptée rainbow projection" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/08.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/06.webp" alt="Lumière Sculptée technical system" width="800" height="533" %}
+    </div>
+</div>
+<div class="uk-grid" data-uk-grid-margin="">
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/07.webp" alt="Lumière Sculptée installation process" width="800" height="533" %}
+    </div>
+    <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/08.webp" alt="Lumière Sculptée final installation" width="800" height="533" %}
     </div>
 </div>
 
@@ -64,31 +64,31 @@ To symbolise nature, we used colours produced by light dispersion. It enabled us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/09.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/09.webp" alt="Lumière Sculptée environment integration" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/10.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/10.webp" alt="Lumière Sculptée spectral effects" width="800" height="533" %}
     </div>
 </div>
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/11.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/11.webp" alt="Lumière Sculptée full rooftop view" width="800" height="533" %}
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/12.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/12.webp" alt="Lumière Sculptée logo projection" width="800" height="533" %}
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/13.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/13.webp" alt="Lumière Sculptée atmospheric lighting" width="800" height="533" %}
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/lumeire-sculptee/02.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/lumeire-sculptee/02.webp" alt="Lumière Sculptée final showcase" width="800" height="533" %}
     </div>
 </div>
 ## CREDITS

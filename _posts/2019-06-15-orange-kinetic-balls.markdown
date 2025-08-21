@@ -18,7 +18,7 @@ For its presence at the Vivatech 2019 show in Paris, Orange asked Publicis.Sapie
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/orange-kinetic-balls/01-800.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/orange-kinetic-balls/01-800.webp" alt="Orange Kinetic Balls installation overview" width="800" height="533" %}
     </div>
 </div>
 
@@ -28,12 +28,12 @@ The kinetic installation was designed to embody the dynamic energy and accelerat
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/orange-kinetic-balls/04.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/orange-kinetic-balls/04.webp" alt="Orange Kinetic Balls kinetic sculpture concept" width="800" height="533" %}
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/orange-kinetic-balls/04.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/orange-kinetic-balls/04.webp" alt="Orange Kinetic Balls dynamic movement" width="800" height="533" %}
     </div>
 </div>
 
@@ -43,12 +43,12 @@ The architectural installation featured suspended kinetic balls that moved in ch
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/orange-kinetic-balls/02.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/orange-kinetic-balls/02.webp" alt="Orange Kinetic Balls motion detail" width="800" height="533" %}
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/orange-kinetic-balls/03.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/orange-kinetic-balls/03.webp" alt="Orange Kinetic Balls architectural installation" width="800" height="533" %}
     </div>
 </div>
 

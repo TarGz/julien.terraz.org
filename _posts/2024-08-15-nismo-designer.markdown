@@ -18,7 +18,7 @@ Nismo's Designer tool allows users to create their own Nissan Formula E car live
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/10.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/nismo-designer/10.webp" alt="Nismo Designer tool interface" width="800" height="533" %}
     </div>
 </div>
 
@@ -28,19 +28,19 @@ The interactive designer allows Formula E fans to customize their ideal Nissan l
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/02.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/nismo-designer/02.webp" alt="Nismo Designer customization options" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/03.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/nismo-designer/03.webp" alt="Nismo Designer color selection" width="800" height="533" %}
     </div>
 </div>
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/06.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/nismo-designer/06.webp" alt="Nismo Designer pattern application" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/07.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/nismo-designer/07.webp" alt="Nismo Designer design elements" width="800" height="533" %}
     </div>
 </div>
 
@@ -50,15 +50,15 @@ Users can share their creations and browse designs from other fans, building a c
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/04.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/nismo-designer/04.webp" alt="Nismo Designer community sharing" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/05.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/nismo-designer/05.webp" alt="Nismo Designer user creations" width="800" height="533" %}
     </div>
 </div>
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/nismo-designer/08.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/nismo-designer/08.webp" alt="Nismo Designer social media integration" width="800" height="533" %}
     </div>
 </div>
 

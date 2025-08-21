@@ -16,7 +16,7 @@ The Originals Museum and [The Originals Store](https://theoriginals-store.renaul
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/01-800.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/renault-the-originals/01-800.webp" alt="Renault The Originals virtual museum" width="800" height="533" %}
     </div>
 </div>
 
@@ -26,10 +26,10 @@ Adobe Commerce integrates the experiential and e-commerce platforms, enabling us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/02.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/renault-the-originals/02.webp" alt="Renault The Originals 3D photogrammetry" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/03.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/renault-the-originals/03.webp" alt="Renault The Originals interactive experience" width="800" height="533" %}
     </div>
 </div>
 
@@ -39,7 +39,7 @@ Adobe Commerce integrates the experiential and e-commerce platforms, enabling us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/04.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/renault-the-originals/04.webp" alt="Renault Type A vintage model" width="800" height="533" %}
     </div>
 </div>
 
@@ -47,10 +47,10 @@ Adobe Commerce integrates the experiential and e-commerce platforms, enabling us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/05.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/renault-the-originals/05.webp" alt="Renault Fuego Turbo side view" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/06.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/renault-the-originals/06.webp" alt="Renault Fuego Turbo interior" width="800" height="533" %}
     </div>
 </div>
 
@@ -58,10 +58,10 @@ Adobe Commerce integrates the experiential and e-commerce platforms, enabling us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/07.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/renault-the-originals/07.webp" alt="Renault R4 Garage Seguin edition" width="800" height="533" %}
     </div>
     <div class="uk-width-large-1-2 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/08.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/renault-the-originals/08.webp" alt="Renault R4 vintage details" width="800" height="533" %}
     </div>
 </div>
 
@@ -69,6 +69,6 @@ Adobe Commerce integrates the experiential and e-commerce platforms, enabling us
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/renault-the-originals/09.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/renault-the-originals/09.webp" alt="Renault Type MH classic model" width="800" height="533" %}
     </div>
 </div>

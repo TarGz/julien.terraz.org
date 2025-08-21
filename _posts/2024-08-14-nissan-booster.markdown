@@ -21,7 +21,7 @@ Nissan Booster is a Web 3 project that integrates NFTs and fan engagement for Ni
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/nissan-booster/03.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/nissan-booster/03.webp" alt="Nissan Booster Web3 interface" width="800" height="533" %}
     </div>
 </div>
 
@@ -31,7 +31,7 @@ Fans can predict race outcomes, earn NFT rewards, and even gain access to exclus
 
 <div class="uk-grid" data-uk-grid-margin="">
     <div class="uk-width-large-1-1 uk-width-medium-1-1 uk-width-small-1-1">
-         <img src="/images/work/nissan-booster/02.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/nissan-booster/02.webp" alt="Nissan Booster NFT card game" width="800" height="533" %}
     </div>
 
 </div>

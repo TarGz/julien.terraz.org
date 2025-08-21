@@ -39,7 +39,7 @@ We "simply" had to build an e-commerce website, at the begining we were focused 
         <p>We have been overload by bag demand it feel like a lot of people want to sell used clothes but unfortunatly we can't buy every used clothes of our market (France)</p>
     </div>
     <div class="uk-width-large-1-4 uk-width-medium-1-2 uk-width-small-1-1">
-         <img src="/images/work/roseindigo/05-800.webp" class="uk-responsive-width">
+         {% include responsive-image.html src="images/work/roseindigo/05-800.webp" alt="RoseIndigo sourcing bag" width="800" height="533" %}
     </div>
 </div>
 
