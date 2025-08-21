@@ -13,11 +13,12 @@ p,h1,h2,h3,h4,h5,h6{overflow-wrap:break-word}
 
 /* Base */
 html{
-  font-family:'Nunito Sans', sans-serif;
+  font-family:'Space Grotesk', sans-serif;
   font-size:16px;
   line-height:1.6;
   color:#000;
   background:#f5f5f5;
+  overflow-x:hidden;
 }
 
 /* Global link styles */
@@ -313,7 +314,7 @@ body{
 .logo-content span,
 .logo-content h1{
   display:block;
-  font-family:'Nunito Sans', sans-serif;
+  font-family:'Space Grotesk', sans-serif;
   font-weight:300;
   color:#333;
   line-height:1.1;
@@ -444,7 +445,7 @@ body{
 }
 
 .contact-details li{
-  font-family:'Nunito Sans', sans-serif;
+  font-family:'Space Grotesk', sans-serif;
   font-size:12px;
   line-height:1.6;
   color:#efefef;
@@ -685,7 +686,12 @@ iframe.uk-responsive-width{
     gap:15px;
   }
   
-  /* Contact responsive */
+  /* Contact responsive - Fix horizontal scroll */
+  .contact{
+    margin:0 -20px;
+    padding:80px 20px;
+  }
+  
   .contact-info{
     flex-direction:column;
     gap:30px;
