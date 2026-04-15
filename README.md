@@ -44,6 +44,13 @@ This will start the Jekyll server on:
 - Main server: http://localhost:4002
 - LiveReload: port 35730
 
+### Development with Drafts
+
+Run with drafts enabled:
+```bash
+./startlocaldev-draft.sh
+```
+
 ### Alternative Commands
 
 Run with drafts:
@@ -98,6 +105,98 @@ Key settings in `_config.yml`:
 - Social media links (LinkedIn, Instagram, Telegram)
 - Google Analytics tracking
 - Disqus comments
+
+## Creating New Articles
+
+### Using the Template
+
+1. **Copy the template:**
+```bash
+cp _drafts/1972-01-28-template.markdown _drafts/YYYY-MM-DD-your-project-name.markdown
+```
+
+2. **Update the front matter:**
+```yaml
+---
+layout: post
+title: "Your Project Title"
+date: "Mon DD, YYYY HH:MM:SSam"
+categories: work
+comments: true
+preview: "images/work/your-project/hero-image.webp"
+excerpt: "Brief description of your project"
+industry: "Industry Name"
+tech_tags: ["TAG1", "TAG2", "TAG3"]
+---
+```
+
+### Image Requirements
+
+**Required Images:**
+- **Hero image**: Main project image for preview (800x533px recommended)
+- **Content images**: Supporting images throughout the article
+
+**Image Formats:**
+- **Source format**: Any format (JPG, PNG, WebP)
+- **Naming convention**: `01.webp`, `02.webp`, etc. or descriptive names
+- **Location**: `/images/work/project-name/`
+
+**Image Sizes Generated Automatically:**
+- Desktop: Original size
+- Tablet: `-tablet.webp` (responsive)  
+- Mobile: `-mobile.webp` (responsive)
+
+### Image Setup Process
+
+1. **Create project folder:**
+```bash
+mkdir images/work/your-project-name
+```
+
+2. **Add your images:**
+```bash
+# Copy your source images
+cp ~/your-images/* images/work/your-project-name/
+```
+
+3. **Use responsive image syntax:**
+```liquid
+{% include responsive-image.html src="images/work/your-project-name/01.webp" alt="Description" width="800" height="533" %}
+```
+
+**Image Grid Examples:**
+```liquid
+<!-- Single image -->
+{% include responsive-image.html src="images/work/project/01.webp" alt="Description" width="800" height="533" %}
+
+<!-- Two images side by side -->
+<div class="content-grid">
+    {% include responsive-image.html src="images/work/project/01.webp" alt="Description 1" width="800" height="533" %}
+    {% include responsive-image.html src="images/work/project/02.webp" alt="Description 2" width="800" height="533" %}
+</div>
+
+<!-- Three images in sequence -->
+{% include responsive-image.html src="images/work/project/01.webp" alt="Description 1" width="800" height="533" %}
+{% include responsive-image.html src="images/work/project/02.webp" alt="Description 2" width="800" height="533" %}
+{% include responsive-image.html src="images/work/project/03.webp" alt="Description 3" width="800" height="533" %}
+```
+
+### Publishing Workflow
+
+1. **Work in drafts:** Edit `_drafts/your-article.markdown`
+2. **Test with drafts:** Use `./startlocaldev-draft.sh`  
+3. **Move to posts:** When ready, move to `_posts/` folder
+4. **Commit:** `git add . && git commit -m "Add new project article"`
+
+### Content Sections Template
+
+The template includes these standard sections:
+- **Hero image and video** (optional)
+- **Text blocks** with descriptions
+- **Image + text combinations**
+- **Image galleries** (1, 2, or 3 images)
+- **Roles section** with responsibilities
+- **Credits section** with team members
 
 ## Dependencies
 
