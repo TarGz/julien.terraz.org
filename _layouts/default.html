@@ -17,7 +17,7 @@
           <h1 class="hero-name"><a href="{{ site.baseurl }}/">JULIEN TERRAZ</a></h1>
           {% if page.url == '/' %}
           <span class="hero-role">Creative Director at Razorfish</span>
-          <span class="hero-philosophy">playing with technology in pursuit of creativity.</span>
+          <span class="hero-philosophy">playing with technology in pursuit of creativity since the 80s.</span>
           <span class="hero-philosophy">Also pen plotter artist known as <em><a href="https://targz.fr" target="_blank" rel="noopener">targz</a></em>.</span>
           {% endif %}
         </div>
@@ -49,6 +49,33 @@
           });
         }, { threshold: 0.12, rootMargin: '0px 0px -40px 0px' });
         els.forEach(function(el){ io.observe(el); });
+      })();
+
+      // Click-to-copy for marquee CTA
+      (function(){
+        var btns = document.querySelectorAll('[data-copy]');
+        btns.forEach(function(btn){
+          btn.addEventListener('click', function(e){
+            e.preventDefault();
+            var text = btn.getAttribute('data-copy');
+            var textEl = btn.querySelector('[data-default]');
+            var copyDone = function(){
+              if (textEl) textEl.textContent = textEl.getAttribute('data-copied') || 'Copied!';
+              btn.classList.add('is-copied');
+              setTimeout(function(){
+                btn.classList.remove('is-copied');
+                if (textEl) textEl.textContent = textEl.getAttribute('data-default') || text;
+              }, 1800);
+            };
+            if (navigator.clipboard && navigator.clipboard.writeText){
+              navigator.clipboard.writeText(text).then(copyDone).catch(function(){
+                window.location.href = 'mailto:' + text;
+              });
+            } else {
+              window.location.href = 'mailto:' + text;
+            }
+          });
+        });
       })();
     </script>
   </body>
