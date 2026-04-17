@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<div class="projects-header">
+<div class="projects-header reveal">
+  <p class="subtitle">SELECTED WORK · 2020–2026</p>
   <h1 class="title">PROJECTS</h1>
-  <p class="subtitle">SELECTED WORK</p>
 </div>
 
 <!-- First project: Last Work (full width with overlay) -->
 {% assign first_post = site.categories.work | first %}
-<a href="{{ first_post.url }}" class="card last-work">
+<a href="{{ first_post.url }}" class="card last-work reveal">
   {% include responsive-image.html src=first_post.preview alt=first_post.title width="800" height="533" priority=true %}
   <div class="card-info">
     <h3 class="card-title">{{ first_post.title }}</h3>
@@ -19,7 +19,7 @@ layout: default
 <!-- Next two projects: Half viewport width each -->
 <div class="half-width-grid">
 {% for post in site.categories.work offset:1 limit:2 %}
-<a href="{{ post.url }}" class="card half-width">
+<a href="{{ post.url }}" class="card half-width reveal">
   <div class="card-info">
     <h3 class="card-title">{{ post.title }}</h3>
     <p class="card-year">{{ post.date | date: "%Y" }}</p>
@@ -38,7 +38,7 @@ layout: default
 <!-- Remaining projects: Two per row -->
 <div class="grid">
   {% for post in site.categories.work offset:3 %}
-    <a href="{{ post.url }}" class="card">
+    <a href="{{ post.url }}" class="card reveal">
       {% include responsive-image.html src=post.preview alt=post.title width="800" height="533" %}
       <div class="card-info">
         <h3 class="card-title">{{ post.title }}</h3>
